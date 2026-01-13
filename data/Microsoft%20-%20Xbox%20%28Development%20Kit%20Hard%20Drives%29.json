@@ -1,0 +1,20 @@
+{
+  "platform": "Microsoft%20-%20Xbox%20%28Development%20Kit%20Hard%20Drives%29",
+  "url": "https://myrient.erista.me/files/No-Intro/Microsoft%20-%20Xbox%20%28Development%20Kit%20Hard%20Drives%29/",
+  "game_count": 3,
+  "scraped_date": "2026-01-13 19:07:53",
+  "games": [
+    {
+      "name": "ActiMarvelThawGun (Unknown).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Microsoft%20-%20Xbox%20%28Development%20Kit%20Hard%20Drives%29/ActiMarvelThawGun%20%28Unknown%29.zip"
+    },
+    {
+      "name": "Eutechnyx Debug Kit (Unknown).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Microsoft%20-%20Xbox%20%28Development%20Kit%20Hard%20Drives%29/Eutechnyx%20Debug%20Kit%20%28Unknown%29.zip"
+    },
+    {
+      "name": "Red Storm Entertainment Debug Kit (Unknown).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Microsoft%20-%20Xbox%20%28Development%20Kit%20Hard%20Drives%29/Red%20Storm%20Entertainment%20Debug%20Kit%20%28Unknown%29.zip"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "platform": "Casio%20-%20PV-1000",
+  "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/",
+  "game_count": 13,
+  "scraped_date": "2026-01-13 19:04:56",
+  "games": [
+    {
+      "name": "Amidar (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Amidar%20%28Japan%29.zip"
+    },
+    {
+      "name": "Dig Dug (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Dig%20Dug%20%28Japan%29.zip"
+    },
+    {
+      "name": "Dirty Chameleon (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Dirty%20Chameleon%20%28Japan%29.zip"
+    },
+    {
+      "name": "Excite Mahjong (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Excite%20Mahjong%20%28Japan%29.zip"
+    },
+    {
+      "name": "Fighting Bug (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Fighting%20Bug%20%28Japan%29.zip"
+    },
+    {
+      "name": "Naughty Boy (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Naughty%20Boy%20%28Japan%29.zip"
+    },
+    {
+      "name": "Pachinko-UFO (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Pachinko-UFO%20%28Japan%29.zip"
+    },
+    {
+      "name": "Pooyan (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Pooyan%20%28Japan%29.zip"
+    },
+    {
+      "name": "Space Panic (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Space%20Panic%20%28Japan%29.zip"
+    },
+    {
+      "name": "Super Cobra (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Super%20Cobra%20%28Japan%29.zip"
+    },
+    {
+      "name": "Turpin (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Turpin%20%28Japan%29.zip"
+    },
+    {
+      "name": "Tutankham (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Tutankham%20%28Japan%29.zip"
+    },
+    {
+      "name": "Warp & Warp (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Casio%20-%20PV-1000/Warp%20%26%20Warp%20%28Japan%29.zip"
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "platform": "IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29",
+  "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/",
+  "game_count": 149,
+  "scraped_date": "2026-01-13 19:07:16",
+  "games": [
+    {
+      "name": "Aku Yome! Akuma na Yome ni Shiborareru (Unknown) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Aku%20Yome%21%20Akuma%20na%20Yome%20ni%20Shiborareru%20%28Unknown%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Amakano (Unknown) (v1.3) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Amakano%20%28Unknown%29%20%28v1.3%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Ane o Tasukeru Tame Nokosareta Shimai o Yogosu Haitoku no Hibi (Unknown) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Ane%20o%20Tasukeru%20Tame%20Nokosareta%20Shimai%20o%20Yogosu%20Haitoku%20no%20Hibi%20%28Unknown%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "AneDeath - Ane-jini Kakugo no Otouto-shibori na Natsu ga Kuru (World) (Ja) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/AneDeath%20-%20Ane-jini%20Kakugo%20no%20Otouto-shibori%20na%20Natsu%20ga%20Kuru%20%28World%29%20%28Ja%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Angenehm Platz - Kleiner Garten Sie Erstellen (Unknown) (v1.01) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Angenehm%20Platz%20-%20Kleiner%20Garten%20Sie%20Erstellen%20%28Unknown%29%20%28v1.01%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Aokana - Four Rhythms Across the Blue - Perfect Edition (World) (En,Ja) (Uncensor Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Aokana%20-%20Four%20Rhythms%20Across%20the%20Blue%20-%20Perfect%20Edition%20%28World%29%20%28En%2CJa%29%20%28Uncensor%20Patch%29.zip"
+    },
+    {
+      "name": "Aokana - Four Rhythms Across the Blue - Perfect Edition (World) (En,Ja) (v1.21) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Aokana%20-%20Four%20Rhythms%20Across%20the%20Blue%20-%20Perfect%20Edition%20%28World%29%20%28En%2CJa%29%20%28v1.21%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Aokana - Four Rhythms Across the Blue Extra 1 (World) (En,Ja) (Uncensor Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Aokana%20-%20Four%20Rhythms%20Across%20the%20Blue%20Extra%201%20%28World%29%20%28En%2CJa%29%20%28Uncensor%20Patch%29.zip"
+    },
+    {
+      "name": "Attractio (World) (Linux) (DLC) (IndieGameStand).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Attractio%20%28World%29%20%28Linux%29%20%28DLC%29%20%28IndieGameStand%29.zip"
+    },
+    {
+      "name": "Attractio (World) (Windows) (DLC) (IndieGameStand).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Attractio%20%28World%29%20%28Windows%29%20%28DLC%29%20%28IndieGameStand%29.zip"
+    },
+    {
+      "name": "Beach Bounce (World) (Uncensor Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Beach%20Bounce%20%28World%29%20%28Uncensor%20Patch%29.zip"
+    },
+    {
+      "name": "Beauty Bounce (World) (Uncensor Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Beauty%20Bounce%20%28World%29%20%28Uncensor%20Patch%29.zip"
+    },
+    {
+      "name": "Blackberry Honey (World) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Blackberry%20Honey%20%28World%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "Bully - Scholarship Edition (Japan) (v1.200) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Bully%20-%20Scholarship%20Edition%20%28Japan%29%20%28v1.200%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Bully - Scholarship Edition (Russia) (v1.200) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Bully%20-%20Scholarship%20Edition%20%28Russia%29%20%28v1.200%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Bully - Scholarship Edition (USA, Europe) (v1.200) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Bully%20-%20Scholarship%20Edition%20%28USA%2C%20Europe%29%20%28v1.200%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Bunny Bounce (World) (Uncensor Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Bunny%20Bounce%20%28World%29%20%28Uncensor%20Patch%29.zip"
+    },
+    {
+      "name": "Chris Sawyer's Locomotion - Shinkansen Series 0 Bullet Train (USA) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Chris%20Sawyer%27s%20Locomotion%20-%20Shinkansen%20Series%200%20Bullet%20Train%20%28USA%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "Chu x Chu Idol (World) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Chu%20x%20Chu%20Idol%20%28World%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Club Life (World) (Uncensor Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Club%20Life%20%28World%29%20%28Uncensor%20Patch%29.zip"
+    },
+    {
+      "name": "Daytona Championship USA (World) (171206) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Daytona%20Championship%20USA%20%28World%29%20%28171206%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Do S na Onee-san wa Suki Desu ka (World) (v1.01) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Do%20S%20na%20Onee-san%20wa%20Suki%20Desu%20ka%20%28World%29%20%28v1.01%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Drascula - The Vampire Strikes Back (World) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Drascula%20-%20The%20Vampire%20Strikes%20Back%20%28World%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls III, The - Morrowind (Europe) (v1.2.0722) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20III%2C%20The%20-%20Morrowind%20%28Europe%29%20%28v1.2.0722%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls III, The - Morrowind (France) (v1.2.0813) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20III%2C%20The%20-%20Morrowind%20%28France%29%20%28v1.2.0813%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls III, The - Morrowind (USA, Australia) (v1.2.0722) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20III%2C%20The%20-%20Morrowind%20%28USA%2C%20Australia%29%20%28v1.2.0722%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls III, The - Morrowind - Bloodmoon (Europe) (v1.6.1820) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20III%2C%20The%20-%20Morrowind%20-%20Bloodmoon%20%28Europe%29%20%28v1.6.1820%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls III, The - Morrowind - Bloodmoon (USA) (v1.6.1820) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20III%2C%20The%20-%20Morrowind%20-%20Bloodmoon%20%28USA%29%20%28v1.6.1820%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls III, The - Morrowind - Tribunal (USA, Europe) (v1.4.1313) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20III%2C%20The%20-%20Morrowind%20-%20Tribunal%20%28USA%2C%20Europe%29%20%28v1.4.1313%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls IV, The - Oblivion (Europe, Australia) (v1.2.0416) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20%28Europe%2C%20Australia%29%20%28v1.2.0416%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls IV, The - Oblivion (France) (v1.2.0416) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20%28France%29%20%28v1.2.0416%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls IV, The - Oblivion (Germany) (v1.2.0416) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20%28Germany%29%20%28v1.2.0416%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls IV, The - Oblivion (Italy) (v1.2.0416) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20%28Italy%29%20%28v1.2.0416%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls IV, The - Oblivion (Spain) (v1.2.0416) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20%28Spain%29%20%28v1.2.0416%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls IV, The - Oblivion (USA) (v1.2.0416) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20%28USA%29%20%28v1.2.0416%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls IV, The - Oblivion - Construction Set (World) (v1.2) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20-%20Construction%20Set%20%28World%29%20%28v1.2%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls IV, The - Oblivion - Shivering Isles (France) (v1.2.0416) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20-%20Shivering%20Isles%20%28France%29%20%28v1.2.0416%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls IV, The - Oblivion - Shivering Isles (Germany) (v1.2.0416) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20-%20Shivering%20Isles%20%28Germany%29%20%28v1.2.0416%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls IV, The - Oblivion - Shivering Isles (Italy) (v1.2.0416) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20-%20Shivering%20Isles%20%28Italy%29%20%28v1.2.0416%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls IV, The - Oblivion - Shivering Isles (Spain) (v1.2.0416) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20-%20Shivering%20Isles%20%28Spain%29%20%28v1.2.0416%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Elder Scrolls IV, The - Oblivion - Shivering Isles (USA, Australia) (v1.2.0416) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Elder%20Scrolls%20IV%2C%20The%20-%20Oblivion%20-%20Shivering%20Isles%20%28USA%2C%20Australia%29%20%28v1.2.0416%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Enemy Territory - Quake Wars (World) (v1.4) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Enemy%20Territory%20-%20Quake%20Wars%20%28World%29%20%28v1.4%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Escape from Monkey Island (Unknown) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Escape%20from%20Monkey%20Island%20%28Unknown%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Fallout - New Vegas - JSawyer Mod (USA) (v5.1) (DLC) (Unl).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Fallout%20-%20New%20Vegas%20-%20JSawyer%20Mod%20%28USA%29%20%28v5.1%29%20%28DLC%29%20%28Unl%29.zip"
+    },
+    {
+      "name": "Fallout 3 (Austria) (v1.7) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Fallout%203%20%28Austria%29%20%28v1.7%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Fallout 3 (France) (v1.7) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Fallout%203%20%28France%29%20%28v1.7%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Fallout 3 (Germany) (v1.7) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Fallout%203%20%28Germany%29%20%28v1.7%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Fallout 3 (Italy) (v1.7) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Fallout%203%20%28Italy%29%20%28v1.7%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Fallout 3 (Spain) (v1.7) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Fallout%203%20%28Spain%29%20%28v1.7%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Fallout 3 (USA) (v1.7) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Fallout%203%20%28USA%29%20%28v1.7%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Fallout 3 (United Kingdom, Australia) (v1.7) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Fallout%203%20%28United%20Kingdom%2C%20Australia%29%20%28v1.7%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Fallout 3 - Garden of Eden Creation Kit (World) (v1.5) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Fallout%203%20-%20Garden%20of%20Eden%20Creation%20Kit%20%28World%29%20%28v1.5%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Floralia + (World) (Ja) (v1.03) (Windows) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Floralia%20%2B%20%28World%29%20%28Ja%29%20%28v1.03%29%20%28Windows%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Grand Theft Auto 2 (World) (v1.03) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Grand%20Theft%20Auto%202%20%28World%29%20%28v1.03%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Grand Theft Auto Episodes from Liberty City (Patch 3) (Unknown).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Grand%20Theft%20Auto%20Episodes%20from%20Liberty%20City%20%28Patch%203%29%20%28Unknown%29.zip"
+    },
+    {
+      "name": "Grand Theft Auto III (Unknown) (v1.1) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Grand%20Theft%20Auto%20III%20%28Unknown%29%20%28v1.1%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Grand Theft Auto IV (Patch 8) (Unknown).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Grand%20Theft%20Auto%20IV%20%28Patch%208%29%20%28Unknown%29.zip"
+    },
+    {
+      "name": "Grand Theft Auto Vice City (Unknown) (v1.1) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Grand%20Theft%20Auto%20Vice%20City%20%28Unknown%29%20%28v1.1%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Grim Fandango (Unknown) (v1.01) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Grim%20Fandango%20%28Unknown%29%20%28v1.01%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Guitar Hero III - Legends of Rock (World) (v1.1) (Patch) (Mac).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Guitar%20Hero%20III%20-%20Legends%20of%20Rock%20%28World%29%20%28v1.1%29%20%28Patch%29%20%28Mac%29.zip"
+    },
+    {
+      "name": "Guitar Hero III - Legends of Rock (World) (v1.1) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Guitar%20Hero%20III%20-%20Legends%20of%20Rock%20%28World%29%20%28v1.1%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Guitar Hero III - Legends of Rock (World) (v1.3) (Patch) (Mac).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Guitar%20Hero%20III%20-%20Legends%20of%20Rock%20%28World%29%20%28v1.3%29%20%28Patch%29%20%28Mac%29.zip"
+    },
+    {
+      "name": "Guitar Hero III - Legends of Rock (World) (v1.3) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Guitar%20Hero%20III%20-%20Legends%20of%20Rock%20%28World%29%20%28v1.3%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Guitar Hero III - Legends of Rock (World) (v1.31) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Guitar%20Hero%20III%20-%20Legends%20of%20Rock%20%28World%29%20%28v1.31%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Halo (Unknown) (v1.0.10) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Halo%20%28Unknown%29%20%28v1.0.10%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Halo (World) (v1.0.10) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Halo%20%28World%29%20%28v1.0.10%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Hello, Goodbye (World) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Hello%2C%20Goodbye%20%28World%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Heretic II (2024) (Update 1) (Amiga) (Unknown).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Heretic%20II%20%282024%29%20%28Update%201%29%20%28Amiga%29%20%28Unknown%29.zip"
+    },
+    {
+      "name": "Heretic II (2024) (Update 2) (Amiga) (Unknown).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Heretic%20II%20%282024%29%20%28Update%202%29%20%28Amiga%29%20%28Unknown%29.zip"
+    },
+    {
+      "name": "Highway Blossoms - 18+ (World) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Highway%20Blossoms%20-%2018%2B%20%28World%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "Hisho x Hisho (Japan) (v1.01) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Hisho%20x%20Hisho%20%28Japan%29%20%28v1.01%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Isekai Lovers! - Kyonyuu no Yuusha wa Choroin (Unknown) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Isekai%20Lovers%21%20-%20Kyonyuu%20no%20Yuusha%20wa%20Choroin%20%28Unknown%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Kami-sama no Iutoori - Kujibiki Aki-Biki Scramble (World) (Ja) (v1.02) (Windows) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Kami-sama%20no%20Iutoori%20-%20Kujibiki%20Aki-Biki%20Scramble%20%28World%29%20%28Ja%29%20%28v1.02%29%20%28Windows%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Legend Seven - Shirayuki Hime to 7-nin no Eiyuu (World) (Ja) (v1.02) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Legend%20Seven%20-%20Shirayuki%20Hime%20to%207-nin%20no%20Eiyuu%20%28World%29%20%28Ja%29%20%28v1.02%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Maji Suki Marginal Skip (World) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Maji%20Suki%20Marginal%20Skip%20%28World%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Mikagami Sumika no Seifuku Katsudou (World) (Ja) (v1.0.1) (Windows) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Mikagami%20Sumika%20no%20Seifuku%20Katsudou%20%28World%29%20%28Ja%29%20%28v1.0.1%29%20%28Windows%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Naka no Hito nado Inai - Tokyo Hero Project (World) (Ja) (v1.00 to v1.11) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Naka%20no%20Hito%20nado%20Inai%20-%20Tokyo%20Hero%20Project%20%28World%29%20%28Ja%29%20%28v1.00%20to%20v1.11%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Naka no Hito nado Inai - Tokyo Hero Project (World) (Ja) (v1.10 to v1.11) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Naka%20no%20Hito%20nado%20Inai%20-%20Tokyo%20Hero%20Project%20%28World%29%20%28Ja%29%20%28v1.10%20to%20v1.11%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Namida Bashi o Watatte (World) (Ja) (v1.1) (Windows) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Namida%20Bashi%20o%20Watatte%20%28World%29%20%28Ja%29%20%28v1.1%29%20%28Windows%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Need for Speed III - Hot Pursuit - Ferrari 456 M GT (Unknown) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Need%20for%20Speed%20III%20-%20Hot%20Pursuit%20-%20Ferrari%20456%20M%20GT%20%28Unknown%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "Need for Speed III - Hot Pursuit - Jaguar XKR (Unknown) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Need%20for%20Speed%20III%20-%20Hot%20Pursuit%20-%20Jaguar%20XKR%20%28Unknown%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "Need for Speed III - Hot Pursuit - Lister Storm (Unknown) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Need%20for%20Speed%20III%20-%20Hot%20Pursuit%20-%20Lister%20Storm%20%28Unknown%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "Need for Speed III - Hot Pursuit - Spectre R42 (Unknown) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Need%20for%20Speed%20III%20-%20Hot%20Pursuit%20-%20Spectre%20R42%20%28Unknown%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "Negligee (World) (Uncensor Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Negligee%20%28World%29%20%28Uncensor%20Patch%29.zip"
+    },
+    {
+      "name": "No One Lives Forever (v1.003) (Unknown) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/No%20One%20Lives%20Forever%20%28v1.003%29%20%28Unknown%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Onigokko (World) (Ja) (v1.01) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Onigokko%20%28World%29%20%28Ja%29%20%28v1.01%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Penumbra Black Plague (Mac) (Unknown) (v1.1) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Penumbra%20Black%20Plague%20%28Mac%29%20%28Unknown%29%20%28v1.1%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Penumbra Black Plague (Unknown) (v1.1) (Update) (Linux).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Penumbra%20Black%20Plague%20%28Unknown%29%20%28v1.1%29%20%28Update%29%20%28Linux%29.zip"
+    },
+    {
+      "name": "Penumbra Black Plague (v1.1u) (Unknown) (Update) (Windows).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Penumbra%20Black%20Plague%20%28v1.1u%29%20%28Unknown%29%20%28Update%29%20%28Windows%29.zip"
+    },
+    {
+      "name": "Penumbra Collection (Mac) (Unknown) (v1.1) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Penumbra%20Collection%20%28Mac%29%20%28Unknown%29%20%28v1.1%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Penumbra Collection (Unknown) (v1.1) (Update) (Linux).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Penumbra%20Collection%20%28Unknown%29%20%28v1.1%29%20%28Update%29%20%28Linux%29.zip"
+    },
+    {
+      "name": "Penumbra Collection (v1.1u) (Unknown) (Update) (Windows).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Penumbra%20Collection%20%28v1.1u%29%20%28Unknown%29%20%28Update%29%20%28Windows%29.zip"
+    },
+    {
+      "name": "Penumbra Overture (Mac) (Unknown) (v1.1) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Penumbra%20Overture%20%28Mac%29%20%28Unknown%29%20%28v1.1%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Penumbra Overture (Unknown) (v1.1) (Update) (Linux).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Penumbra%20Overture%20%28Unknown%29%20%28v1.1%29%20%28Update%29%20%28Linux%29.zip"
+    },
+    {
+      "name": "Penumbra Overture (v1.1u) (Unknown) (Update) (Windows).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Penumbra%20Overture%20%28v1.1u%29%20%28Unknown%29%20%28Update%29%20%28Windows%29.zip"
+    },
+    {
+      "name": "Penumbra Requiem (Mac) (Unknown) (v1.1) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Penumbra%20Requiem%20%28Mac%29%20%28Unknown%29%20%28v1.1%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Penumbra Requiem (Unknown) (v1.1) (Update) (Linux).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Penumbra%20Requiem%20%28Unknown%29%20%28v1.1%29%20%28Update%29%20%28Linux%29.zip"
+    },
+    {
+      "name": "Penumbra Requiem (v1.1u) (Unknown) (Update) (Windows).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Penumbra%20Requiem%20%28v1.1u%29%20%28Unknown%29%20%28Update%29%20%28Windows%29.zip"
+    },
+    {
+      "name": "Play Home (World) (Ja) (Hatsubai Kinen Tsuika Data) (Windows) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Play%20Home%20%28World%29%20%28Ja%29%20%28Hatsubai%20Kinen%20Tsuika%20Data%29%20%28Windows%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "Play Home (World) (Ja) (Official Yoyaku Tokuten 'Monokini Wanpi') (Windows) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Play%20Home%20%28World%29%20%28Ja%29%20%28Official%20Yoyaku%20Tokuten%20%27Monokini%20Wanpi%27%29%20%28Windows%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "Play Home (World) (Ja) (Studio Kinou Tsuika Contents) (Windows) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Play%20Home%20%28World%29%20%28Ja%29%20%28Studio%20Kinou%20Tsuika%20Contents%29%20%28Windows%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "Play Home (World) (Ja) (Yoyaku Tokuten Data 'CA Ishou Data') (Windows) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Play%20Home%20%28World%29%20%28Ja%29%20%28Yoyaku%20Tokuten%20Data%20%27CA%20Ishou%20Data%27%29%20%28Windows%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "Postal III (World) (No-DRM Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Postal%20III%20%28World%29%20%28No-DRM%20Patch%29.zip"
+    },
+    {
+      "name": "Postal III (World) (v1.10) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Postal%20III%20%28World%29%20%28v1.10%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Postal III (World) (v1.11) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Postal%20III%20%28World%29%20%28v1.11%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Postal III (World) (v1.12) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Postal%20III%20%28World%29%20%28v1.12%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Quake 4 (World) (v1.3 to v1.4.2) (Update) (Linux) (32-bit).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Quake%204%20%28World%29%20%28v1.3%20to%20v1.4.2%29%20%28Update%29%20%28Linux%29%20%2832-bit%29.zip"
+    },
+    {
+      "name": "Remedy (World) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Remedy%20%28World%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Riddle Joker - 18+ (World) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Riddle%20Joker%20-%2018%2B%20%28World%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon (USA) (v1.08.187) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%20%28USA%29%20%28v1.08.187%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon - Alton Towers Scenario (USA) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%20-%20Alton%20Towers%20Scenario%20%28USA%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon - Beastly Tracks (USA) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%20-%20Beastly%20Tracks%20%28USA%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon - Cat Collection of Wooden Wild Mouse Coaster Track Designs (USA) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%20-%20Cat%20Collection%20of%20Wooden%20Wild%20Mouse%20Coaster%20Track%20Designs%20%28USA%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon - Corkscrew Follies (USA) (v1.10.026) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%20-%20Corkscrew%20Follies%20%28USA%29%20%28v1.10.026%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon - Fort Anachronism Scenario (USA) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%20-%20Fort%20Anachronism%20Scenario%20%28USA%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon - Gem Tracks (USA) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%20-%20Gem%20Tracks%20%28USA%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon - Loopy Landscapes (USA) (v1.20.013) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%20-%20Loopy%20Landscapes%20%28USA%29%20%28v1.20.013%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon - Original Tracks (USA) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%20-%20Original%20Tracks%20%28USA%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon - Phobia Collection of Steel Twister Roller Coasters (USA) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%20-%20Phobia%20Collection%20of%20Steel%20Twister%20Roller%20Coasters%20%28USA%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon - Scenario Progress Recovery Patch (USA) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%20-%20Scenario%20Progress%20Recovery%20Patch%20%28USA%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon - Woodies Tracks (USA) (DLC).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%20-%20Woodies%20Tracks%20%28USA%29%20%28DLC%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon 2 (USA) (v2.8) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%202%20%28USA%29%20%28v2.8%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon 2 - Official SecuROM Patch (USA) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%202%20-%20Official%20SecuROM%20Patch%20%28USA%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "RollerCoaster Tycoon 2 - Wacky Worlds (USA) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/RollerCoaster%20Tycoon%202%20-%20Wacky%20Worlds%20%28USA%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Senren Banka (World) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Senren%20Banka%20%28World%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Shogo - Mobile Armor Division (Amiga) (Unknown) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Shogo%20-%20Mobile%20Armor%20Division%20%28Amiga%29%20%28Unknown%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Shougun-sama wa Otoshigoro (World) (Ja) (v1.10) (Windows) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Shougun-sama%20wa%20Otoshigoro%20%28World%29%20%28Ja%29%20%28v1.10%29%20%28Windows%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Soushisouai Lolita (World) (v1.0.1) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Soushisouai%20Lolita%20%28World%29%20%28v1.0.1%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Suki Suki Daisuki Chou Kanri Shite Ageru (World) (v1.0.1) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Suki%20Suki%20Daisuki%20Chou%20Kanri%20Shite%20Ageru%20%28World%29%20%28v1.0.1%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Suki Suki Daisuki Chou Kanri Shite Ageru (World) (v1.0.2) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Suki%20Suki%20Daisuki%20Chou%20Kanri%20Shite%20Ageru%20%28World%29%20%28v1.0.2%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Summer Fling (World) (Uncensor Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Summer%20Fling%20%28World%29%20%28Uncensor%20Patch%29.zip"
+    },
+    {
+      "name": "Sunrider - Mask of Arcadius (World) (Uncensor Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Sunrider%20-%20Mask%20of%20Arcadius%20%28World%29%20%28Uncensor%20Patch%29.zip"
+    },
+    {
+      "name": "Sunrider Academy (World) (Uncensor Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Sunrider%20Academy%20%28World%29%20%28Uncensor%20Patch%29.zip"
+    },
+    {
+      "name": "Sunrider Liberation Day (World) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Sunrider%20Liberation%20Day%20%28World%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Sweet Volley High (World) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Sweet%20Volley%20High%20%28World%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Tales of Tamar (v0.58) (Unknown) (Update) (Linux).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Tales%20of%20Tamar%20%28v0.58%29%20%28Unknown%29%20%28Update%29%20%28Linux%29.zip"
+    },
+    {
+      "name": "Tales of Tamar (v0.59) (Amiga) (Unknown) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Tales%20of%20Tamar%20%28v0.59%29%20%28Amiga%29%20%28Unknown%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Tales of Tamar (v0.59) (Unknown) (Update) (Windows).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Tales%20of%20Tamar%20%28v0.59%29%20%28Unknown%29%20%28Update%29%20%28Windows%29.zip"
+    },
+    {
+      "name": "Tales of Tamar - Animations (Amiga) (Unknown).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Tales%20of%20Tamar%20-%20Animations%20%28Amiga%29%20%28Unknown%29.zip"
+    },
+    {
+      "name": "Tales of Tamar - Animations (Unknown) (Windows).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Tales%20of%20Tamar%20-%20Animations%20%28Unknown%29%20%28Windows%29.zip"
+    },
+    {
+      "name": "Tales of Tamar - Map Editor (v0.50) (Unknown) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Tales%20of%20Tamar%20-%20Map%20Editor%20%28v0.50%29%20%28Unknown%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Tenkiame (World) (Ja) (v1.02) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Tenkiame%20%28World%29%20%28Ja%29%20%28v1.02%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Thief x Sword (Japan) (v1.03) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Thief%20x%20Sword%20%28Japan%29%20%28v1.03%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Toki Doki Sugar (World) (Ja) (v1.04) (Windows) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Toki%20Doki%20Sugar%20%28World%29%20%28Ja%29%20%28v1.04%29%20%28Windows%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Tonari no Puu-san (Unknown) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Tonari%20no%20Puu-san%20%28Unknown%29%20%28Patch%29.zip"
+    },
+    {
+      "name": "Trouble Days (World) (En,Ja) (Uncensor Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Trouble%20Days%20%28World%29%20%28En%2CJa%29%20%28Uncensor%20Patch%29.zip"
+    },
+    {
+      "name": "Wagamama Milk DE Shite Ageru Ecchi na Oneesan-tachi to no Dopyudopyu Home Share Seikatsu (World) (Update).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Wagamama%20Milk%20DE%20Shite%20Ageru%20Ecchi%20na%20Oneesan-tachi%20to%20no%20Dopyudopyu%20Home%20Share%20Seikatsu%20%28World%29%20%28Update%29.zip"
+    },
+    {
+      "name": "Yome no Imouto to no Inai - Tsuma ni Kakurete Majiwaru Otto to Gimai (World) (Ja) (v1.01) (Update) (Unknown).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Yome%20no%20Imouto%20to%20no%20Inai%20-%20Tsuma%20ni%20Kakurete%20Majiwaru%20Otto%20to%20Gimai%20%28World%29%20%28Ja%29%20%28v1.01%29%20%28Update%29%20%28Unknown%29.zip"
+    },
+    {
+      "name": "Yubikiri Kon'yaku Lolita (World) (v1.0.1) (Patch).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/IBM%20-%20PC%20and%20Compatibles%20%28Digital%29%20%28Updates%20and%20DLC%29/Yubikiri%20Kon%27yaku%20Lolita%20%28World%29%20%28v1.0.1%29%20%28Patch%29.zip"
+    }
+  ]
+}

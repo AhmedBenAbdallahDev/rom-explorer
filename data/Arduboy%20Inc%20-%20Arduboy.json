@@ -1,0 +1,2136 @@
+{
+  "platform": "Arduboy%20Inc%20-%20Arduboy",
+  "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/",
+  "game_count": 532,
+  "scraped_date": "2026-01-13 19:03:25",
+  "games": [
+    {
+      "name": "101 Starships (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/101%20Starships%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "1010 (World) (v0.96) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/1010%20%28World%29%20%28v0.96%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "1010 (World) (v0.96).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/1010%20%28World%29%20%28v0.96%29.zip"
+    },
+    {
+      "name": "1943 (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/1943%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "1943 (World) (v1.0.3) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/1943%20%28World%29%20%28v1.0.3%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "1943 (World) (v1.0.3).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/1943%20%28World%29%20%28v1.0.3%29.zip"
+    },
+    {
+      "name": "1944 (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/1944%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "1944 (World) (v1.0.3).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/1944%20%28World%29%20%28v1.0.3%29.zip"
+    },
+    {
+      "name": "1nvader (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/1nvader%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "1nvader (World) (v1.0) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/1nvader%20%28World%29%20%28v1.0%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "1nvader (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/1nvader%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "1nvader (World) (v1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/1nvader%20%28World%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": "2048 (World) (v0.5) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/2048%20%28World%29%20%28v0.5%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "2048 (World) (v0.5).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/2048%20%28World%29%20%28v0.5%29.zip"
+    },
+    {
+      "name": "2PlayersPack (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/2PlayersPack%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "3in1A (World) (v3.1) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/3in1A%20%28World%29%20%28v3.1%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "3in1B (World) (v2) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/3in1B%20%28World%29%20%28v2%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "3in1C (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/3in1C%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "3in1D (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/3in1D%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "3in1E (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/3in1E%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ABAsm DP1 (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ABAsm%20DP1%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "APara (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/APara%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ARDUBULLETs (World) (v0.10).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ARDUBULLETs%20%28World%29%20%28v0.10%29.zip"
+    },
+    {
+      "name": "ARDUBULLETs (World) (v0.11) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ARDUBULLETs%20%28World%29%20%28v0.11%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "ARDUBULLETs (World) (v0.11) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ARDUBULLETs%20%28World%29%20%28v0.11%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ARDUBULLETs (World) (v0.11).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ARDUBULLETs%20%28World%29%20%28v0.11%29.zip"
+    },
+    {
+      "name": "ARtillery (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ARtillery%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ARtillery (World) (v1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ARtillery%20%28World%29%20%28v1%29.zip"
+    },
+    {
+      "name": "ASTEROIDS (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ASTEROIDS%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ASTEROIDS (World) (FP).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ASTEROIDS%20%28World%29%20%28FP%29.zip"
+    },
+    {
+      "name": "ASTEROIDS (World) (ST).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ASTEROIDS%20%28World%29%20%28ST%29.zip"
+    },
+    {
+      "name": "AbSynth FM (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/AbSynth%20FM%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "AbSynth FM (World) (v2.0) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/AbSynth%20FM%20%28World%29%20%28v2.0%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Abshell (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Abshell%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Arcodia (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arcodia%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Arcodia (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arcodia%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Ard-Drivin (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ard-Drivin%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ardletics (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardletics%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ardu Buggy (World) (v1.0) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu%20Buggy%20%28World%29%20%28v1.0%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ardu Turf Masters (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu%20Turf%20Masters%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ardu-EZ Button (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu-EZ%20Button%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ardu-EZ Button (World) (v1.0) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu-EZ%20Button%20%28World%29%20%28v1.0%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Ardu-Nut Button (World) (v1.0) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu-Nut%20Button%20%28World%29%20%28v1.0%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Ardu-Racer (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu-Racer%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ardu-Racer (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu-Racer%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Ardu-Racer (World) (v1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu-Racer%20%28World%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": "Ardu-Racer (World) (v1.2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu-Racer%20%28World%29%20%28v1.2%29.zip"
+    },
+    {
+      "name": "Ardu-Racer (World) (v1.3).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu-Racer%20%28World%29%20%28v1.3%29.zip"
+    },
+    {
+      "name": "Ardu-Whack (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu-Whack%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ardu-Whack (World) (v1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu-Whack%20%28World%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": "Ardu-Whack (World) (v1.2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu-Whack%20%28World%29%20%28v1.2%29.zip"
+    },
+    {
+      "name": "Ardu-man (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardu-man%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ArduBOYNG (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduBOYNG%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ArduBall (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduBall%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ArduBall (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduBall%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "ArduBrain (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduBrain%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ArduBrain (World) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduBrain%20%28World%29%20%28Program%29.zip"
+    },
+    {
+      "name": "ArduCC (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduCC%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ArduCC (World) (v1.0) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduCC%20%28World%29%20%28v1.0%29%20%28Program%29.zip"
+    },
+    {
+      "name": "ArduChess (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduChess%20%28World%29.zip"
+    },
+    {
+      "name": "ArduGods (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduGods%20%28World%29.zip"
+    },
+    {
+      "name": "ArduGolf (World) (FX Only).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduGolf%20%28World%29%20%28FX%20Only%29.zip"
+    },
+    {
+      "name": "ArduGolf (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduGolf%20%28World%29.zip"
+    },
+    {
+      "name": "ArduGolf - 18-Hole Mini Golf (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduGolf%20-%2018-Hole%20Mini%20Golf%20%28World%29.zip"
+    },
+    {
+      "name": "ArduIndy (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduIndy%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ArduIndy (World) (v2.50).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduIndy%20%28World%29%20%28v2.50%29.zip"
+    },
+    {
+      "name": "ArduLO (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduLO%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ArduLO (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduLO%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "ArduMetronome (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduMetronome%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ArduMetronome (World) (v1.0.0) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduMetronome%20%28World%29%20%28v1.0.0%29%20%28Program%29.zip"
+    },
+    {
+      "name": "ArduMetronome (World) (v1.1.0) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduMetronome%20%28World%29%20%28v1.1.0%29%20%28Program%29.zip"
+    },
+    {
+      "name": "ArduRemote (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduRemote%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ArduRemote (World) (v0.1) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduRemote%20%28World%29%20%28v0.1%29%20%28Program%29.zip"
+    },
+    {
+      "name": "ArduRogue (World) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduRogue%20%28World%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "ArduRogue (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduRogue%20%28World%29.zip"
+    },
+    {
+      "name": "ArduSaver (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduSaver%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ArduSaver (World) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduSaver%20%28World%29%20%28Program%29.zip"
+    },
+    {
+      "name": "ArduTosh (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduTosh%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ArduTosh (World) (v1.0) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduTosh%20%28World%29%20%28v1.0%29%20%28Program%29.zip"
+    },
+    {
+      "name": "ArduTosh (World) (v1.0.1) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduTosh%20%28World%29%20%28v1.0.1%29%20%28Program%29.zip"
+    },
+    {
+      "name": "ArduTosh (World) (v1.0.2) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduTosh%20%28World%29%20%28v1.0.2%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Arduboy Assistant (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduboy%20Assistant%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Arduboy Assistant (World) (v2.0) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduboy%20Assistant%20%28World%29%20%28v2.0%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Arduboy Calendar (World) (Program) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduboy%20Calendar%20%28World%29%20%28Program%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "Arduboy Calendar (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduboy%20Calendar%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Arduboy Calendar (World) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduboy%20Calendar%20%28World%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Arduboy Gamepad (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduboy%20Gamepad%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Arduboy Says (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduboy%20Says%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Arduboy Says (World) (Update 2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduboy%20Says%20%28World%29%20%28Update%202%29.zip"
+    },
+    {
+      "name": "Arduboy Sings (World) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduboy%20Sings%20%28World%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Arduboy Sprite Editor (World) (v0.3) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduboy%20Sprite%20Editor%20%28World%29%20%28v0.3%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Arduboy Sprite Editor (World) (v0.3) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduboy%20Sprite%20Editor%20%28World%29%20%28v0.3%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Arduboy Visual Novel Demo (World) (Proto).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduboy%20Visual%20Novel%20Demo%20%28World%29%20%28Proto%29.zip"
+    },
+    {
+      "name": "ArduboyLife (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduboyLife%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ArduboyLife (World) (v2.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ArduboyLife%20%28World%29%20%28v2.0%29.zip"
+    },
+    {
+      "name": "Arducross (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arducross%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ardulem (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardulem%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ardulem (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardulem%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Arduloop (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduloop%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Arduminer (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduminer%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Arduminer (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduminer%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Arduminer (World) (v1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduminer%20%28World%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": "Arduslide (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduslide%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ardusweeper (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardusweeper%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Arduventure - Trial of the Blade (World) (v1.01).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduventure%20-%20Trial%20of%20the%20Blade%20%28World%29%20%28v1.01%29.zip"
+    },
+    {
+      "name": "Arduventure - Trial of the Blade (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Arduventure%20-%20Trial%20of%20the%20Blade%20%28World%29.zip"
+    },
+    {
+      "name": "Ardynia (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardynia%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ardynia (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ardynia%20%28World%29.zip"
+    },
+    {
+      "name": "Armageddon (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Armageddon%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Atomic Puzzle Pack (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Atomic%20Puzzle%20Pack%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "BEGEMMED (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/BEGEMMED%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "BEGEMMED (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/BEGEMMED%20%28World%29.zip"
+    },
+    {
+      "name": "Back to the Jungle (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Back%20to%20the%20Jungle%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Balancing Act (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Balancing%20Act%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Bang! Bang! (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Bang%21%20Bang%21%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Bangi (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Bangi%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Battle for Zuthsrah (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Battle%20for%20Zuthsrah%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Beam 'Em Up (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Beam%20%27Em%20Up%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Biddy Watering (World) (Demo) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Biddy%20Watering%20%28World%29%20%28Demo%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "BigBlackBox (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/BigBlackBox%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "BiriBiriBeat (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/BiriBiriBeat%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "BitWars (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/BitWars%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "BitWars (World) (v1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/BitWars%20%28World%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": "Blackjack (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Blackjack%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Blackjack (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Blackjack%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Blackjack (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Blackjack%20%28World%29.zip"
+    },
+    {
+      "name": "Blade Runner (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Blade%20Runner%20%28World%29.zip"
+    },
+    {
+      "name": "Blob Attack (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Blob%20Attack%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "Blob Attack (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Blob%20Attack%20%28World%29.zip"
+    },
+    {
+      "name": "Blocks (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Blocks%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Boids (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Boids%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Bomberboy (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Bomberboy%20%28World%29.zip"
+    },
+    {
+      "name": "Bombzzle (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Bombzzle%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Book Reader - The Pig and the Box (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Book%20Reader%20-%20The%20Pig%20and%20the%20Box%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Book Reader - The Pig and the Box (World) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Book%20Reader%20-%20The%20Pig%20and%20the%20Box%20%28World%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Boris Goes Skiing (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Boris%20Goes%20Skiing%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Boris Goes Skiing (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Boris%20Goes%20Skiing%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Bounce (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Bounce%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Bounce (World) (v1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Bounce%20%28World%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": "Bounce! (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Bounce%21%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Bounce, The (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Bounce%2C%20The%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Box Stacker (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Box%20Stacker%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Brainfuck Interpreter (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Brainfuck%20Interpreter%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Brainfuck Interpreter (World) (v0.1) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Brainfuck%20Interpreter%20%28World%29%20%28v0.1%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Breakout-V (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Breakout-V%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Breakout-V (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Breakout-V%20%28World%29.zip"
+    },
+    {
+      "name": "Bubble Pop (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Bubble%20Pop%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "Bubble Pop (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Bubble%20Pop%20%28World%29.zip"
+    },
+    {
+      "name": "BurgardTime (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/BurgardTime%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "BurgardTime (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/BurgardTime%20%28World%29.zip"
+    },
+    {
+      "name": "CandyWar (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/CandyWar%20%28World%29.zip"
+    },
+    {
+      "name": "Captain Mason's UFO Defence (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Captain%20Mason%27s%20UFO%20Defence%20%28World%29.zip"
+    },
+    {
+      "name": "Cascade Path, The (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Cascade%20Path%2C%20The%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "CastleBoy (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/CastleBoy%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Cat Mines (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Cat%20Mines%20%28World%29.zip"
+    },
+    {
+      "name": "Catacombs of the Damned (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Catacombs%20of%20the%20Damned%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Catacombs of the Damned (World) (v0.1) (Demo).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Catacombs%20of%20the%20Damned%20%28World%29%20%28v0.1%29%20%28Demo%29.zip"
+    },
+    {
+      "name": "Catacombs of the Damned (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Catacombs%20of%20the%20Damned%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Cattle Quest (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Cattle%20Quest%20%28World%29.zip"
+    },
+    {
+      "name": "Chicken Launcher (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Chicken%20Launcher%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Chicken Launcher (World) (v1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Chicken%20Launcher%20%28World%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": "Chie Magari Ita (World) (v0.10) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Chie%20Magari%20Ita%20%28World%29%20%28v0.10%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Chie Magari Ita (World) (v0.11).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Chie%20Magari%20Ita%20%28World%29%20%28v0.11%29.zip"
+    },
+    {
+      "name": "Chirp (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Chirp%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Chirp (World) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Chirp%20%28World%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Choplifter (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Choplifter%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Choplifter (World) (FX Enhanced).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Choplifter%20%28World%29%20%28FX%20Enhanced%29.zip"
+    },
+    {
+      "name": "Choplifter (World) (v1.1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Choplifter%20%28World%29%20%28v1.1.1%29.zip"
+    },
+    {
+      "name": "Chri-Bocchi Cat (World) (v0.03) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Chri-Bocchi%20Cat%20%28World%29%20%28v0.03%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Chri-Bocchi Cat (World) (v0.04).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Chri-Bocchi%20Cat%20%28World%29%20%28v0.04%29.zip"
+    },
+    {
+      "name": "Chrome Dino (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Chrome%20Dino%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Chrome Dino (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Chrome%20Dino%20%28World%29.zip"
+    },
+    {
+      "name": "Chrome Dino - Halloween (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Chrome%20Dino%20-%20Halloween%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Circuit Dude (World) (v3.2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Circuit%20Dude%20%28World%29%20%28v3.2%29.zip"
+    },
+    {
+      "name": "Cistercia (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Cistercia%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Coder's Toolbox (World) (FX Enhanced) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Coder%27s%20Toolbox%20%28World%29%20%28FX%20Enhanced%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Coder's Toolbox (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Coder%27s%20Toolbox%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Coin Rush! (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Coin%20Rush%21%20%28World%29.zip"
+    },
+    {
+      "name": "Cooties Attack (World) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Cooties%20Attack%20%28World%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "Cooties Attack (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Cooties%20Attack%20%28World%29.zip"
+    },
+    {
+      "name": "CosmicPods (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/CosmicPods%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "CowBro (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/CowBro%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "CowBro (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/CowBro%20%28World%29.zip"
+    },
+    {
+      "name": "Crabator (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Crabator%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Crate Confusion (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Crate%20Confusion%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Crate Confusion (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Crate%20Confusion%20%28World%29.zip"
+    },
+    {
+      "name": "Crates 3D (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Crates%203D%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Crates 3D (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Crates%203D%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Crawl, The (World) (v1.01).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Crawl%2C%20The%20%28World%29%20%28v1.01%29.zip"
+    },
+    {
+      "name": "CrazyKart (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/CrazyKart%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Creapawn (World) (v1.2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Creapawn%20%28World%29%20%28v1.2%29.zip"
+    },
+    {
+      "name": "Cribbage (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Cribbage%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Cribbage (World) (v1.02).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Cribbage%20%28World%29%20%28v1.02%29.zip"
+    },
+    {
+      "name": "Cripple Mr Onion (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Cripple%20Mr%20Onion%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Cripple Mr Onion (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Cripple%20Mr%20Onion%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Curse of Astarok, The (World) (v1.0) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Curse%20of%20Astarok%2C%20The%20%28World%29%20%28v1.0%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Curse of Astarok, The (World) (v1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Curse%20of%20Astarok%2C%20The%20%28World%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": "Curve Ball 3D (World) (Demo).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Curve%20Ball%203D%20%28World%29%20%28Demo%29.zip"
+    },
+    {
+      "name": "Cutie E (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Cutie%20E%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "CyberHack (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/CyberHack%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "DanceRow (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/DanceRow%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Dark Star (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Dark%20Star%20%28World%29.zip"
+    },
+    {
+      "name": "Dark and Under (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Dark%20and%20Under%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Dark and Under (World) (v2.0.3).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Dark%20and%20Under%20%28World%29%20%28v2.0.3%29.zip"
+    },
+    {
+      "name": "Deep Dish Nine (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Deep%20Dish%20Nine%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Defenduino (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Defenduino%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Defenduino (World) (v1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Defenduino%20%28World%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": "Defenduino (World) (v1.2) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Defenduino%20%28World%29%20%28v1.2%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Defenduino (World) (v1.2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Defenduino%20%28World%29%20%28v1.2%29.zip"
+    },
+    {
+      "name": "Diamonds (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Diamonds%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Dice of Fate (World) (No QR Code) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Dice%20of%20Fate%20%28World%29%20%28No%20QR%20Code%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Dice of Fate (World) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Dice%20of%20Fate%20%28World%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Dice of Fate (World) (v1.7.2) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Dice%20of%20Fate%20%28World%29%20%28v1.7.2%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Digger (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Digger%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Dinosaur (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Dinosaur%20%28World%29.zip"
+    },
+    {
+      "name": "Do You Remember Love (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Do%20You%20Remember%20Love%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Dominoes 'All Fives' (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Dominoes%20%27All%20Fives%27%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Donkey Kong Jr. (World) (v0.99a) (Demake).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Donkey%20Kong%20Jr.%20%28World%29%20%28v0.99a%29%20%28Demake%29.zip"
+    },
+    {
+      "name": "Dungeons (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Dungeons%20%28World%29.zip"
+    },
+    {
+      "name": "Dungeons 2 (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Dungeons%202%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "Dungeons 2 (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Dungeons%202%20%28World%29.zip"
+    },
+    {
+      "name": "Egg Master Pro 2020 (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Egg%20Master%20Pro%202020%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Electronic Quarterback (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Electronic%20Quarterback%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ElsieBoy4 (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ElsieBoy4%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Elventure (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Elventure%20%28World%29.zip"
+    },
+    {
+      "name": "Epic Crates of Mass Destruction (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Epic%20Crates%20of%20Mass%20Destruction%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "Epic Crates of Mass Destruction (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Epic%20Crates%20of%20Mass%20Destruction%20%28World%29.zip"
+    },
+    {
+      "name": "Epic Mini Games (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Epic%20Mini%20Games%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Escaper Droid (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Escaper%20Droid%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "Escaper Droid (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Escaper%20Droid%20%28World%29.zip"
+    },
+    {
+      "name": "Evade (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Evade%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Evade 2 (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Evade%202%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Evasion (World) (v0.10) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Evasion%20%28World%29%20%28v0.10%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "Evasion (World) (v0.10).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Evasion%20%28World%29%20%28v0.10%29.zip"
+    },
+    {
+      "name": "Fanboat (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Fanboat%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Farkle (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Farkle%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "FateHack (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/FateHack%20%28World%29.zip"
+    },
+    {
+      "name": "Fatsche (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Fatsche%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Fidget Spinner (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Fidget%20Spinner%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Fill the Cup (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Fill%20the%20Cup%20%28World%29.zip"
+    },
+    {
+      "name": "Fire Panic (World) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Fire%20Panic%20%28World%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "Fire Panic (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Fire%20Panic%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Flappy Ball (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Flappy%20Ball%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Flappy Birdie (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Flappy%20Birdie%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Flood Fill (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Flood%20Fill%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Floor Fall (World) (v0.1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Floor%20Fall%20%28World%29%20%28v0.1.0%29.zip"
+    },
+    {
+      "name": "Fluffle's Rainy Day (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Fluffle%27s%20Rainy%20Day%20%28World%29.zip"
+    },
+    {
+      "name": "Galactea (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Galactea%20%28World%29.zip"
+    },
+    {
+      "name": "Galaxion (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Galaxion%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Game of Life (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Game%20of%20Life%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Games'N Goblins - The Game (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Games%27N%20Goblins%20-%20The%20Game%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Garboyle's Quest (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Garboyle%27s%20Quest%20%28World%29.zip"
+    },
+    {
+      "name": "German Whist (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/German%20Whist%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Glove (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Glove%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Graph (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Graph%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Graph 2 (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Graph%202%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Guy Who Never Complains, The (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Guy%20Who%20Never%20Complains%2C%20The%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "HP35boy (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/HP35boy%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "HUNT! (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/HUNT%21%20%28World%29.zip"
+    },
+    {
+      "name": "Hangman! (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Hangman%21%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Harambe's Revenge (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Harambe%27s%20Revenge%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Hashi (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Hashi%20%28World%29.zip"
+    },
+    {
+      "name": "Helii (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Helii%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Hello, Commander (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Hello%2C%20Commander%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Holidate (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Holidate%20%28World%29.zip"
+    },
+    {
+      "name": "Hollow Seeker (World) (v0.31) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Hollow%20Seeker%20%28World%29%20%28v0.31%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Hollow Seeker (World) (v0.32).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Hollow%20Seeker%20%28World%29%20%28v0.32%29.zip"
+    },
+    {
+      "name": "Hopper (World) (v0.21) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Hopper%20%28World%29%20%28v0.21%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Hopper (World) (v0.22).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Hopper%20%28World%29%20%28v0.22%29.zip"
+    },
+    {
+      "name": "Horde, The (World) (v0.3).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Horde%2C%20The%20%28World%29%20%28v0.3%29.zip"
+    },
+    {
+      "name": "Humanity Revenge DC (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Humanity%20Revenge%20DC%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "I4arduboy (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/I4arduboy%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "IDOUDO (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/IDOUDO%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Invaders (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Invaders%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Is This Loss - The Game (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Is%20This%20Loss%20-%20The%20Game%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Jet Pac (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Jet%20Pac%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Jezzball (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Jezzball%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Joustish (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Joustish%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "JumpBoy (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/JumpBoy%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Juno First (World) (v1.00) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Juno%20First%20%28World%29%20%28v1.00%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Juno First (World) (v1.01).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Juno%20First%20%28World%29%20%28v1.01%29.zip"
+    },
+    {
+      "name": "KPA Quest (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/KPA%20Quest%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Karateka (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Karateka%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Karateka (World) (FX Enhanced).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Karateka%20%28World%29%20%28FX%20Enhanced%29.zip"
+    },
+    {
+      "name": "Karateka (World) (v0.9) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Karateka%20%28World%29%20%28v0.9%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "Karateka (World) (v0.9).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Karateka%20%28World%29%20%28v0.9%29.zip"
+    },
+    {
+      "name": "Kemono Patrol (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Kemono%20Patrol%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "KeyKat - I.T. (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/KeyKat%20-%20I.T.%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Knight Move (World) (v0.10).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Knight%20Move%20%28World%29%20%28v0.10%29.zip"
+    },
+    {
+      "name": "Knight Move (World) (v0.11) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Knight%20Move%20%28World%29%20%28v0.11%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "Knight Move (World) (v0.11) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Knight%20Move%20%28World%29%20%28v0.11%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Knight Move (World) (v0.11).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Knight%20Move%20%28World%29%20%28v0.11%29.zip"
+    },
+    {
+      "name": "Kong (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Kong%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Kong (World) (v1.0.4).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Kong%20%28World%29%20%28v1.0.4%29.zip"
+    },
+    {
+      "name": "Kong II (World) (v1.0.0) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Kong%20II%20%28World%29%20%28v1.0.0%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Kooky Kookies (World) (v1.1) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Kooky%20Kookies%20%28World%29%20%28v1.1%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Kooky Kookies (World) (v1.2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Kooky%20Kookies%20%28World%29%20%28v1.2%29.zip"
+    },
+    {
+      "name": "Kung Fu Escape (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Kung%20Fu%20Escape%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "LATE (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/LATE%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Lagunita (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Lagunita%20%28World%29.zip"
+    },
+    {
+      "name": "Lasers (World) (v0.11) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Lasers%20%28World%29%20%28v0.11%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "Lasers (World) (v0.11) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Lasers%20%28World%29%20%28v0.11%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Lasers (World) (v0.11).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Lasers%20%28World%29%20%28v0.11%29.zip"
+    },
+    {
+      "name": "Lasers (World) (v0.12).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Lasers%20%28World%29%20%28v0.12%29.zip"
+    },
+    {
+      "name": "Leanna the Lion (World) (v1.1) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Leanna%20the%20Lion%20%28World%29%20%28v1.1%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Leanna the Lion (World) (v1.2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Leanna%20the%20Lion%20%28World%29%20%28v1.2%29.zip"
+    },
+    {
+      "name": "Light Meter (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Light%20Meter%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Lion Tamer (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Lion%20Tamer%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Lite Out (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Lite%20Out%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Little Rook Chess (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Little%20Rook%20Chess%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Lode Runner (World) (v1.04) (Levels 1 to 40) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Lode%20Runner%20%28World%29%20%28v1.04%29%20%28Levels%201%20to%2040%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Lode Runner (World) (v1.04) (Levels 121 to 154) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Lode%20Runner%20%28World%29%20%28v1.04%29%20%28Levels%20121%20to%20154%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Lode Runner (World) (v1.04) (Levels 41 to 80) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Lode%20Runner%20%28World%29%20%28v1.04%29%20%28Levels%2041%20to%2080%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Lode Runner (World) (v1.04) (Levels 81 to 120) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Lode%20Runner%20%28World%29%20%28v1.04%29%20%28Levels%2081%20to%20120%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Logix (World) (v0.94) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Logix%20%28World%29%20%28v0.94%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "LongCat (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/LongCat%20%28World%29.zip"
+    },
+    {
+      "name": "Love Tester (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Love%20Tester%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "LoveRush (World) (v1.1.1) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/LoveRush%20%28World%29%20%28v1.1.1%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "LoveRush (World) (v1.1.2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/LoveRush%20%28World%29%20%28v1.1.2%29.zip"
+    },
+    {
+      "name": "MUGICGEN POCKET (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/MUGICGEN%20POCKET%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Magic 8 Arduball (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Magic%208%20Arduball%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "MallARD Hunt (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/MallARD%20Hunt%20%28World%29.zip"
+    },
+    {
+      "name": "Manhole (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Manhole%20%28World%29.zip"
+    },
+    {
+      "name": "Manic Miner (World) (FX Only).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Manic%20Miner%20%28World%29%20%28FX%20Only%29.zip"
+    },
+    {
+      "name": "Match the Shape (World) (v1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Match%20the%20Shape%20%28World%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": "MayQ (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/MayQ%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "MazezaM (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/MazezaM%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Mazogs (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Mazogs%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Mega Missiles (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Mega%20Missiles%20%28World%29.zip"
+    },
+    {
+      "name": "Metalog (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Metalog%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "MicroCheckers (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/MicroCheckers%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "MicroCity (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/MicroCity%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "MicroTD (World) (v1.01) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/MicroTD%20%28World%29%20%28v1.01%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "MicroTank (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/MicroTank%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Midnight Wild (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Midnight%20Wild%20%28World%29.zip"
+    },
+    {
+      "name": "Millipe (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Millipe%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Minesweeper (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Minesweeper%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Mini Rogue (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Mini%20Rogue%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Miss Snake (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Miss%20Snake%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Mitty the Kitty (World) (v0.1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Mitty%20the%20Kitty%20%28World%29%20%28v0.1.0%29.zip"
+    },
+    {
+      "name": "Mitty the Kitty (World) (v0.2.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Mitty%20the%20Kitty%20%28World%29%20%28v0.2.0%29.zip"
+    },
+    {
+      "name": "Monpals (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Monpals%20%28World%29.zip"
+    },
+    {
+      "name": "Morse Code Trainer (World) (v0.10) (Program) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Morse%20Code%20Trainer%20%28World%29%20%28v0.10%29%20%28Program%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "Morse Code Trainer (World) (v0.10) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Morse%20Code%20Trainer%20%28World%29%20%28v0.10%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Morse Code Trainer (World) (v0.11) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Morse%20Code%20Trainer%20%28World%29%20%28v0.11%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Mouse Escape (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Mouse%20Escape%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Mystic Balloon (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Mystic%20Balloon%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "Mystic Balloon (World) (v1.7).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Mystic%20Balloon%20%28World%29%20%28v1.7%29.zip"
+    },
+    {
+      "name": "Mystic Balloon (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Mystic%20Balloon%20%28World%29.zip"
+    },
+    {
+      "name": "Nanoseq (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Nanoseq%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Night Raid (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Night%20Raid%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Nightmare Park (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Nightmare%20Park%20%28World%29.zip"
+    },
+    {
+      "name": "Ninja Fuzzgrawth (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ninja%20Fuzzgrawth%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Nomis (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Nomis%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Not Just a Hat Rack (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Not%20Just%20a%20Hat%20Rack%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "NumberMind (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/NumberMind%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Octet Night (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Octet%20Night%20%28World%29.zip"
+    },
+    {
+      "name": "Octopus (World) (Demake).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Octopus%20%28World%29%20%28Demake%29.zip"
+    },
+    {
+      "name": "Oh Mummy (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Oh%20Mummy%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Oh, You're Gunna Die (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Oh%2C%20You%27re%20Gunna%20Die%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Oil Panic (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Oil%20Panic%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "OktaArduToken (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/OktaArduToken%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Omega Horizon (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Omega%20Horizon%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Omega Horizon (World) (v1.3).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Omega%20Horizon%20%28World%29%20%28v1.3%29.zip"
+    },
+    {
+      "name": "Orbs (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Orbs%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "PAC-Tastic (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/PAC-Tastic%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "PI 24k (World) (v0.03) (Program) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/PI%2024k%20%28World%29%20%28v0.03%29%20%28Program%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "PI 24k (World) (v0.03) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/PI%2024k%20%28World%29%20%28v0.03%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "PI 24k (World) (v0.03) (Program).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/PI%2024k%20%28World%29%20%28v0.03%29%20%28Program%29.zip"
+    },
+    {
+      "name": "Paqman (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Paqman%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Pawn Path (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Pawn%20Path%20%28World%29.zip"
+    },
+    {
+      "name": "Petit of the Dead (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Petit%20of%20the%20Dead%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Petitseq (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Petitseq%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "PiCross (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/PiCross%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Pico Racers (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Pico%20Racers%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "Pico Racers (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Pico%20Racers%20%28World%29.zip"
+    },
+    {
+      "name": "Picovaders (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Picovaders%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Picross a (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Picross%20a%20%28World%29.zip"
+    },
+    {
+      "name": "Pipes (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Pipes%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Pocket Fighter (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Pocket%20Fighter%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Pocket Othello (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Pocket%20Othello%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Pocket PDA (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Pocket%20PDA%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Pocketchi (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Pocketchi%20%28World%29.zip"
+    },
+    {
+      "name": "Poitto (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Poitto%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Pong (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Pong%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Poop Panic! (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Poop%20Panic%21%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Prince of Arabia (World) (v1.0) (FX Only).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Prince%20of%20Arabia%20%28World%29%20%28v1.0%29%20%28FX%20Only%29.zip"
+    },
+    {
+      "name": "Prince of Arabia (World) (v1.1) (FX Only).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Prince%20of%20Arabia%20%28World%29%20%28v1.1%29%20%28FX%20Only%29.zip"
+    },
+    {
+      "name": "Prince of Arabia (World) (v1.2) (FX Only).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Prince%20of%20Arabia%20%28World%29%20%28v1.2%29%20%28FX%20Only%29.zip"
+    },
+    {
+      "name": "Prize Frenzy (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Prize%20Frenzy%20%28World%29.zip"
+    },
+    {
+      "name": "Psi Colo (World) (v0.10) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Psi%20Colo%20%28World%29%20%28v0.10%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Psi Colo (World) (v0.11).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Psi%20Colo%20%28World%29%20%28v0.11%29.zip"
+    },
+    {
+      "name": "Pyoro (World) (v1.1) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Pyoro%20%28World%29%20%28v1.1%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Quadrastic (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Quadrastic%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Quarto! (World) (v0.10) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Quarto%21%20%28World%29%20%28v0.10%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "Quarto! (World) (v0.10) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Quarto%21%20%28World%29%20%28v0.10%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Quarto! (World) (v0.10).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Quarto%21%20%28World%29%20%28v0.10%29.zip"
+    },
+    {
+      "name": "Quest for Truth, The (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Quest%20for%20Truth%2C%20The%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Quest for Truth, The (World) (v1.0.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Quest%20for%20Truth%2C%20The%20%28World%29%20%28v1.0.0%29.zip"
+    },
+    {
+      "name": "RYSK (World) (v0.01).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/RYSK%20%28World%29%20%28v0.01%29.zip"
+    },
+    {
+      "name": "RYSK (World) (v0.04).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/RYSK%20%28World%29%20%28v0.04%29.zip"
+    },
+    {
+      "name": "RYSK (World) (v0.10).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/RYSK%20%28World%29%20%28v0.10%29.zip"
+    },
+    {
+      "name": "Radical Racing - Rivalry (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Radical%20Racing%20-%20Rivalry%20%28World%29.zip"
+    },
+    {
+      "name": "Randocity (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Randocity%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ravine Despoiler (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ravine%20Despoiler%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Rayne the Rogue (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Rayne%20the%20Rogue%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Rayne the Rogue (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Rayne%20the%20Rogue%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "Rayne the Rogue (World) (v2.9).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Rayne%20the%20Rogue%20%28World%29%20%28v2.9%29.zip"
+    },
+    {
+      "name": "Rayne the Rogue Deluxe (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Rayne%20the%20Rogue%20Deluxe%20%28World%29.zip"
+    },
+    {
+      "name": "Rayne the Rogue Part II (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Rayne%20the%20Rogue%20Part%20II%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Reverse Mermaid Hockey (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Reverse%20Mermaid%20Hockey%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "Reverse Mermaid Hockey (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Reverse%20Mermaid%20Hockey%20%28World%29.zip"
+    },
+    {
+      "name": "Reversi (World) (v0.10) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Reversi%20%28World%29%20%28v0.10%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Reversi (World) (v0.11).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Reversi%20%28World%29%20%28v0.11%29.zip"
+    },
+    {
+      "name": "Rhythum (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Rhythum%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Rhythum (World) (v1.0.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Rhythum%20%28World%29%20%28v1.0.1%29.zip"
+    },
+    {
+      "name": "Rhythum (World) (v1.0.2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Rhythum%20%28World%29%20%28v1.0.2%29.zip"
+    },
+    {
+      "name": "Rick and Morty Game (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Rick%20and%20Morty%20Game%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ring Puzzle (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ring%20Puzzle%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Road Trip (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Road%20Trip%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "RoboDodge (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/RoboDodge%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Rogue (World) (v1.21) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Rogue%20%28World%29%20%28v1.21%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Roo Run (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Roo%20Run%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Rooftop Rescue (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Rooftop%20Rescue%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Roshambo (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Roshambo%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "SFCave (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/SFCave%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "SFZ (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/SFZ%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "SIEGE (World) (v1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/SIEGE%20%28World%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": "SNAKE (World) (CDRXavier) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/SNAKE%20%28World%29%20%28CDRXavier%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "SNAKE (World) (CDRXavier).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/SNAKE%20%28World%29%20%28CDRXavier%29.zip"
+    },
+    {
+      "name": "SameGame (World) (v0.10) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/SameGame%20%28World%29%20%28v0.10%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "SameGame (World) (v0.10) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/SameGame%20%28World%29%20%28v0.10%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "SameGame (World) (v0.10).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/SameGame%20%28World%29%20%28v0.10%29.zip"
+    },
+    {
+      "name": "SanSan (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/SanSan%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Santa's Factory (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Santa%27s%20Factory%20%28World%29.zip"
+    },
+    {
+      "name": "Santa's Happy Little Packer (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Santa%27s%20Happy%20Little%20Packer%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Self Destruct Message (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Self%20Destruct%20Message%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Sensitive (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Sensitive%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "SetSystemEEPROM (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/SetSystemEEPROM%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Shadow Runner (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Shadow%20Runner%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "Shadow Runner (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Shadow%20Runner%20%28World%29.zip"
+    },
+    {
+      "name": "Shadows and Eternity (World) (v1.25) (FX Only).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Shadows%20and%20Eternity%20%28World%29%20%28v1.25%29%20%28FX%20Only%29.zip"
+    },
+    {
+      "name": "Shattered Lands - Towers of Perdition (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Shattered%20Lands%20-%20Towers%20of%20Perdition%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Shattered Lands - Towers of Perdition (World) (v1.4).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Shattered%20Lands%20-%20Towers%20of%20Perdition%20%28World%29%20%28v1.4%29.zip"
+    },
+    {
+      "name": "Siege (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Siege%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Single Ennead (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Single%20Ennead%20%28World%29.zip"
+    },
+    {
+      "name": "Sirene (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Sirene%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "Sirene (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Sirene%20%28World%29.zip"
+    },
+    {
+      "name": "Sk8 Ard Die (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Sk8%20Ard%20Die%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Sketch-A-Sketch (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Sketch-A-Sketch%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "SnELk (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/SnELk%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Snake (World) (Stu) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Snake%20%28World%29%20%28Stu%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Social Distance Game, The (World) (v1.1.0) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Social%20Distance%20Game%2C%20The%20%28World%29%20%28v1.1.0%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Solitaire (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Solitaire%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Space Battle - Trench Run (World) (v1.1) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Space%20Battle%20-%20Trench%20Run%20%28World%29%20%28v1.1%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Space Cab (World) (v1.0) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Space%20Cab%20%28World%29%20%28v1.0%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Space Fighter (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Space%20Fighter%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Space Flappy (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Space%20Flappy%20%28World%29.zip"
+    },
+    {
+      "name": "Space Invaders (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Space%20Invaders%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Space Knife (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Space%20Knife%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Space Quarth (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Space%20Quarth%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Square Nose (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Square%20Nose%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Squario (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Squario%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Stairs Sweep (World) (v0.10) (Alt).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Stairs%20Sweep%20%28World%29%20%28v0.10%29%20%28Alt%29.zip"
+    },
+    {
+      "name": "Stairs Sweep (World) (v0.10) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Stairs%20Sweep%20%28World%29%20%28v0.10%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Stairs Sweep (World) (v0.10).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Stairs%20Sweep%20%28World%29%20%28v0.10%29.zip"
+    },
+    {
+      "name": "Star Honor (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Star%20Honor%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Starduino (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Starduino%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Starduino Turbo (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Starduino%20Turbo%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Stellar Impact (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Stellar%20Impact%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Street Racer (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Street%20Racer%20%28World%29.zip"
+    },
+    {
+      "name": "Sudoku-NBP (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Sudoku-NBP%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Super Crate Buino (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Super%20Crate%20Buino%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Super Soldiers (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Super%20Soldiers%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "TNTANK (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/TNTANK%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "TNTANK (World) (v2.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/TNTANK%20%28World%29%20%28v2.0%29.zip"
+    },
+    {
+      "name": "TV Tuner (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/TV%20Tuner%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tackle Box (World) (v1.2.0) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tackle%20Box%20%28World%29%20%28v1.2.0%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tamaguino-AB (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tamaguino-AB%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Techno Monkey (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Techno%20Monkey%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Techno Monkey (World) (v1.0).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Techno%20Monkey%20%28World%29%20%28v1.0%29.zip"
+    },
+    {
+      "name": "Term Twirl (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Term%20Twirl%20%28World%29.zip"
+    },
+    {
+      "name": "Tetris (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tetris%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "TicTacCurly (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/TicTacCurly%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny Asteroids (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny%20Asteroids%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny Depth (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny%20Depth%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny Digital Invader (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny%20Digital%20Invader%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny Lander (World) (v1.0) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny%20Lander%20%28World%29%20%28v1.0%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny NS-Tower (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny%20NS-Tower%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny Sokoban (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny%20Sokoban%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny-Bert (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny-Bert%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny-Bike (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny-Bike%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny-DDug (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny-DDug%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny-Missile (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny-Missile%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny-Morpion (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny-Morpion%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny-Pipe (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny-Pipe%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny-Plaque (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny-Plaque%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny-Trick (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny-Trick%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tiny-Tris (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tiny-Tris%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "To (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/To%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tower of Pain (World) (v1.2.2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tower%20of%20Pain%20%28World%29%20%28v1.2.2%29.zip"
+    },
+    {
+      "name": "Toyoshiki Tiny Basic (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Toyoshiki%20Tiny%20Basic%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Train Dodge (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Train%20Dodge%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tres (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tres%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Tris (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tris%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Trolly Fish (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Trolly%20Fish%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "Trolly Fish (World) (v1.1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Trolly%20Fish%20%28World%29%20%28v1.1%29.zip"
+    },
+    {
+      "name": "Trolly Fish (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Trolly%20Fish%20%28World%29.zip"
+    },
+    {
+      "name": "Tronduboy (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Tronduboy%20%28World%29.zip"
+    },
+    {
+      "name": "Turtle Bridge (World) (v1.0) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Turtle%20Bridge%20%28World%29%20%28v1.0%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Turtle Bridge (World) (v1.3).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Turtle%20Bridge%20%28World%29%20%28v1.3%29.zip"
+    },
+    {
+      "name": "Twotris (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Twotris%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Ufo-Race (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Ufo-Race%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Umeroose (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Umeroose%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Under the Tower (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Under%20the%20Tower%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Unicorn Dash (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Unicorn%20Dash%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "VT220 Serial Terminal Emulator (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/VT220%20Serial%20Terminal%20Emulator%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Virtual Gamepad (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Virtual%20Gamepad%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Virus LQP-79 (World) (2016-06-07).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Virus%20LQP-79%20%28World%29%20%282016-06-07%29.zip"
+    },
+    {
+      "name": "Virus LQP-79 (World) (2020-06-08).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Virus%20LQP-79%20%28World%29%20%282020-06-08%29.zip"
+    },
+    {
+      "name": "Virus LQP-79 (World) (2021-06-21) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Virus%20LQP-79%20%28World%29%20%282021-06-21%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "WHG (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/WHG%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Waternet (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Waternet%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Wire Screensaver (World) (Program) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Wire%20Screensaver%20%28World%29%20%28Program%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "YUM YUM (World) (No QR Code).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/YUM%20YUM%20%28World%29%20%28No%20QR%20Code%29.zip"
+    },
+    {
+      "name": "YUM YUM (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/YUM%20YUM%20%28World%29.zip"
+    },
+    {
+      "name": "Yatzy (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Yatzy%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Yatzy (World) (v1.3).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Yatzy%20%28World%29%20%28v1.3%29.zip"
+    },
+    {
+      "name": "You Won't Survive (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/You%20Won%27t%20Survive%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Zoo (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Zoo%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "Zoo at Midnight (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/Zoo%20at%20Midnight%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    },
+    {
+      "name": "ZooEscape (World) (Erwin's Collection).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Arduboy%20Inc%20-%20Arduboy/ZooEscape%20%28World%29%20%28Erwin%27s%20Collection%29.zip"
+    }
+  ]
+}

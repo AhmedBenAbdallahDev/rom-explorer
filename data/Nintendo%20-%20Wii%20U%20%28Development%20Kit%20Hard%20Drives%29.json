@@ -1,0 +1,20 @@
+{
+  "platform": "Nintendo%20-%20Wii%20U%20%28Development%20Kit%20Hard%20Drives%29",
+  "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20%28Development%20Kit%20Hard%20Drives%29/",
+  "game_count": 3,
+  "scraped_date": "2026-01-13 19:11:34",
+  "games": [
+    {
+      "name": "CAT-DEV HDD (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20%28Development%20Kit%20Hard%20Drives%29/CAT-DEV%20HDD%20%28World%29.zip"
+    },
+    {
+      "name": "CAT-SES HDD (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20%28Development%20Kit%20Hard%20Drives%29/CAT-SES%20HDD%20%28World%29.zip"
+    },
+    {
+      "name": "[BIOS] Uji Factory SD Card (World).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20%28Development%20Kit%20Hard%20Drives%29/%5BBIOS%5D%20Uji%20Factory%20SD%20Card%20%28World%29.zip"
+    }
+  ]
+}

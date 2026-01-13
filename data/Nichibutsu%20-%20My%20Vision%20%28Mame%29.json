@@ -1,0 +1,24 @@
+{
+  "platform": "Nichibutsu%20-%20My%20Vision%20%28Mame%29",
+  "url": "https://myrient.erista.me/files/No-Intro/Nichibutsu%20-%20My%20Vision%20%28Mame%29/",
+  "game_count": 4,
+  "scraped_date": "2026-01-13 19:08:39",
+  "games": [
+    {
+      "name": "Gomoku Narabe Renju (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Nichibutsu%20-%20My%20Vision%20%28Mame%29/Gomoku%20Narabe%20Renju%20%28Japan%29.zip"
+    },
+    {
+      "name": "Hanafuda (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Nichibutsu%20-%20My%20Vision%20%28Mame%29/Hanafuda%20%28Japan%29.zip"
+    },
+    {
+      "name": "Mahjong (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Nichibutsu%20-%20My%20Vision%20%28Mame%29/Mahjong%20%28Japan%29.zip"
+    },
+    {
+      "name": "Tsume Shougi (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Nichibutsu%20-%20My%20Vision%20%28Mame%29/Tsume%20Shougi%20%28Japan%29.zip"
+    }
+  ]
+}

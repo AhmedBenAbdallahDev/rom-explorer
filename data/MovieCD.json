@@ -1,0 +1,24 @@
+{
+  "platform": "MovieCD",
+  "url": "https://myrient.erista.me/files/No-Intro/MovieCD/",
+  "game_count": 4,
+  "scraped_date": "2026-01-13 19:08:16",
+  "games": [
+    {
+      "name": "Dominion Tank Police Part 1 (Contains Acts I & II) (USA) (Disc 1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/MovieCD/Dominion%20Tank%20Police%20Part%201%20%28Contains%20Acts%20I%20%26%20II%29%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": "Dominion Tank Police Part 1 (Contains Acts I & II) (USA) (Disc 2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/MovieCD/Dominion%20Tank%20Police%20Part%201%20%28Contains%20Acts%20I%20%26%20II%29%20%28USA%29%20%28Disc%202%29.zip"
+    },
+    {
+      "name": "Ghost in the Shell (USA) (Disc 1).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/MovieCD/Ghost%20in%20the%20Shell%20%28USA%29%20%28Disc%201%29.zip"
+    },
+    {
+      "name": "Ghost in the Shell (USA) (Disc 2).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/MovieCD/Ghost%20in%20the%20Shell%20%28USA%29%20%28Disc%202%29.zip"
+    }
+  ]
+}

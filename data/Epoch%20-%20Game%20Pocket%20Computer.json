@@ -1,0 +1,28 @@
+{
+  "platform": "Epoch%20-%20Game%20Pocket%20Computer",
+  "url": "https://myrient.erista.me/files/No-Intro/Epoch%20-%20Game%20Pocket%20Computer/",
+  "game_count": 5,
+  "scraped_date": "2026-01-13 19:05:32",
+  "games": [
+    {
+      "name": "Astro Bomber (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Epoch%20-%20Game%20Pocket%20Computer/Astro%20Bomber%20%28Japan%29.zip"
+    },
+    {
+      "name": "Block Maze (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Epoch%20-%20Game%20Pocket%20Computer/Block%20Maze%20%28Japan%29.zip"
+    },
+    {
+      "name": "Pocket Computer Mahjong (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Epoch%20-%20Game%20Pocket%20Computer/Pocket%20Computer%20Mahjong%20%28Japan%29.zip"
+    },
+    {
+      "name": "Pocket Computer Reversi (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Epoch%20-%20Game%20Pocket%20Computer/Pocket%20Computer%20Reversi%20%28Japan%29.zip"
+    },
+    {
+      "name": "Soukoban (Japan).zip",
+      "url": "https://myrient.erista.me/files/No-Intro/Epoch%20-%20Game%20Pocket%20Computer/Soukoban%20%28Japan%29.zip"
+    }
+  ]
+}
