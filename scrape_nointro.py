@@ -8,7 +8,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import time
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
 import sys
 import os
 from collections import defaultdict
@@ -39,7 +39,7 @@ def get_root_folder(path):
     if not path:
         return ""
     parts = path.split('/')
-    return parts[0] if parts else ""
+    return parts[0] if parts[0] else ""
 
 def sanitize_filename(name):
     """Sanitize folder name for use as filename."""
