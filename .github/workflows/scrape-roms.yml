@@ -8,6 +8,9 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for committing and pushing changes
+      actions: read
     
     steps:
       - name: Checkout repository
