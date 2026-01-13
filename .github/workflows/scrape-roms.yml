@@ -1,4 +1,4 @@
-name: Scrape No-Intro ROMs
+name: Full-Site Recursive Crawler
 
 on:
   workflow_dispatch:
@@ -11,42 +11,42 @@ jobs:
     permissions:
       contents: write  # Required for committing and pushing changes
       actions: read
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: Install dependencies
         run: pip install -r requirements.txt
-      
-      - name: Run scraper
+
+      - name: Run full-site recursive crawler
         run: python scrape_nointro.py
-      
-      - name: Upload ROM data artifacts
+
+      - name: Upload crawl data artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: rom-data-${{ github.run_number }}
+          name: crawl-data-${{ github.run_number }}
           path: data/*.json
           retention-days: 90
           if-no-files-found: warn
-      
+
       - name: Configure Git
         run: |
           git config user.name 'GitHub Action'
           git config user.email 'action@github.com'
-      
-      - name: Commit and push changes
+
+      - name: Commit and push JSON outputs
         run: |
-          git add data/
+          git add data/*.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update ROM data - run ${{ github.run_number }}"
+            git commit -m "Update crawl data - run ${{ github.run_number }}"
             git pull --rebase origin ${{ github.ref_name }} || true
             git push || echo "Failed to push changes"
           fi
