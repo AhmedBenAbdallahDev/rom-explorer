@@ -1,0 +1,47 @@
+name: Scrape No-Intro ROMs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'  # Run every Sunday at midnight UTC
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Run scraper
+        run: python scrape_nointro.py
+      
+      - name: Upload ROM data artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: rom-data-${{ github.run_number }}
+          path: data/*.json
+          retention-days: 90
+      
+      - name: Configure Git
+        run: |
+          git config user.name 'GitHub Action'
+          git config user.email 'action@github.com'
+      
+      - name: Commit and push changes
+        run: |
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update ROM data - run ${{ github.run_number }}"
+            git push
+          fi
