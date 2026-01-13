@@ -30,6 +30,7 @@ jobs:
           name: rom-data-${{ github.run_number }}
           path: data/*.json
           retention-days: 90
+          if-no-files-found: warn
       
       - name: Configure Git
         run: |
@@ -43,5 +44,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update ROM data - run ${{ github.run_number }}"
-            git push
+            git pull --rebase origin ${{ github.ref_name }} || true
+            git push || echo "Failed to push changes"
           fi
