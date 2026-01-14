@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useRef, useMemo } from 'react';
-import { Search, Disc, Globe, Gamepad, X, Filter, ChevronDown, Command, Folder, File, ChevronRight, Home } from 'lucide-react';
+import { Search, Disc, Globe, Gamepad, X, Filter, ChevronDown, Command, Folder, File, ChevronRight, Home as HomeIcon } from 'lucide-react';
 
 export default function Home() {
     const [data, setData] = useState(null);
@@ -21,6 +21,9 @@ export default function Home() {
     // Base URL for Data. In development, it uses local /data folder. 
     // In production, you can set NEXT_PUBLIC_DATA_URL in Vercel to point to your S3/CDN.
     const DATA_BASE_URL = process.env.NEXT_PUBLIC_DATA_URL || '';
+
+    // Using a ref to track if we should capture keys
+    const searchInputRef = useRef(null);
 
     useEffect(() => {
         // Fetch the index data
@@ -349,7 +352,7 @@ export default function Home() {
                             onClick={() => { setActiveProvider('all'); setActiveTag('all'); }}
                             className="hover:text-white flex items-center gap-1 transition-colors"
                         >
-                            <Home className="w-4 h-4" />
+                            <HomeIcon className="w-4 h-4" />
                             Home
                         </button>
 
