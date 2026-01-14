@@ -18,12 +18,13 @@ export default function Home() {
     const [loadingGames, setLoadingGames] = useState(false);
     const loadMoreRef = useRef(null);
 
-    // Using a ref to track if we should capture keys
-    const searchInputRef = useRef(null);
+    // Base URL for Data. In development, it uses local /data folder. 
+    // In production, you can set NEXT_PUBLIC_DATA_URL in Vercel to point to your S3/CDN.
+    const DATA_BASE_URL = process.env.NEXT_PUBLIC_DATA_URL || '';
 
     useEffect(() => {
         // Fetch the index data
-        fetch('/data/index.json')
+        fetch(`${DATA_BASE_URL}/data/index.json`)
             .then(res => res.json())
             .then(jsonData => {
                 setData(jsonData);
@@ -57,10 +58,14 @@ export default function Home() {
         return () => window.removeEventListener('keydown', handleKeyDown);
     }, []);
 
+    // Data Caching
+    const [manifests, setManifests] = useState({});
+    const [gameCache, setGameCache] = useState({});
+
     // Fetch Manifest when entered a Provider
     useEffect(() => {
         if (activeProvider !== 'all' && !manifests[activeProvider]) {
-            fetch(`/data/${activeProvider}/_manifest.json`)
+            fetch(`${DATA_BASE_URL}/data/${activeProvider}/_manifest.json`)
                 .then(res => res.json())
                 .then(json => setManifests(prev => ({ ...prev, [activeProvider]: json })))
                 .catch(err => console.error("Failed to load manifest", err));
@@ -78,8 +83,8 @@ export default function Home() {
                     // The manifest paths seem to be relative to the collection or root?
                     // Based on file view: "file":"No_Intro/nintendo___game_boy.json"
                     // It seems to include the collection folder name.
-                    // So we fetch `/data/${platformNode.file}`
-                    fetch(`/data/${platformNode.file}`)
+                    // So we fetch `${DATA_BASE_URL}/data/${platformNode.file}`
+                    fetch(`${DATA_BASE_URL}/data/${platformNode.file}`)
                         .then(res => res.json())
                         .then(games => {
                             setGameCache(prev => ({ ...prev, [cacheKey]: games }));
