@@ -7,8 +7,10 @@ export default function Home() {
     const [data, setData] = useState(null);
     const [loading, setLoading] = useState(true);
     const [searchTerm, setSearchTerm] = useState('');
+    const [debouncedTerm, setDebouncedTerm] = useState('');
     const [isGlobalSearch, setIsGlobalSearch] = useState(false);
-    const [isDeepSearch, setIsDeepSearch] = useState(false); // Default to shallow search
+    const [isDeepSearch, setIsDeepSearch] = useState(false); // Scope: Shallow or Deep
+    const [searchTarget, setSearchTarget] = useState('files'); // Target: 'files', 'folders', or 'both'
     const [activeProvider, setActiveProvider] = useState('all');
     const [activeTag, setActiveTag] = useState('all');
     const [showFilters, setShowFilters] = useState(false);
@@ -76,37 +78,260 @@ export default function Home() {
     }, [activeProvider, manifests]);
 
     // Fetch Games when entered a Platform (Tag)
+    // --- Internet Archive Deep Map Logic ---
+    const [platformMap, setPlatformMap] = useState({});
+
     useEffect(() => {
-        if (activeProvider !== 'all' && activeTag !== 'all' && manifests[activeProvider]) {
-            const platformNode = manifests[activeProvider][activeTag];
-            if (platformNode) {
-                const cacheKey = `${activeProvider}-${activeTag}`;
-                if (!gameCache[cacheKey]) {
-                    setLoadingGames(true);
-                    // The manifest paths seem to be relative to the collection or root?
-                    // Based on file view: "file":"No_Intro/nintendo___game_boy.json"
-                    // It seems to include the collection folder name.
-                    // So we fetch `${DATA_BASE_URL}/data/${platformNode.file}`
-                    fetch(`${DATA_BASE_URL}/data/${platformNode.file}`)
-                        .then(res => res.json())
-                        .then(games => {
-                            setGameCache(prev => ({ ...prev, [cacheKey]: games }));
-                            setLoadingGames(false);
-                        })
-                        .catch(err => {
-                            console.error("Failed to load games", err);
-                            setLoadingGames(false);
+        // Pre-fetch IA platform map for deep searching even if not currently in IA
+        fetch(`${DATA_BASE_URL}/data/Internet_Archive/_platform_map.json`)
+            .then(res => res.json())
+            .then(map => {
+                console.log('Loaded Global Platform Map for IA');
+                setPlatformMap(map);
+            })
+            .catch(err => console.warn("Deep search map not found, basic navigation only."));
+    }, []);
+
+    // --- Load Games for Selected Platform ---
+    useEffect(() => {
+        if (activeProvider === 'all' || activeTag === 'all') return;
+
+        const loadGames = async () => {
+            setLoadingGames(true);
+            const cacheKey = `${activeProvider}-${activeTag}`;
+
+            // 1. Check Cache
+            if (gameCache[cacheKey]) {
+                setLoadingGames(false);
+                return;
+            }
+
+            try {
+                let fileUrl = '';
+                let isSubFilter = false;
+
+                // 2. Resolve File Path
+                const manifestNode = manifests[activeProvider]?.[activeTag];
+                if (activeProvider === 'Internet_Archive' && platformMap[activeTag]) {
+                    isSubFilter = true;
+                }
+
+                // 3. Fetch (Supporting Multi-part Files)
+                const files = Array.isArray(manifestNode?.file)
+                    ? manifestNode.file
+                    : [manifestNode?.file || (activeProvider === 'Internet_Archive' && platformMap[activeTag] ? `Internet_Archive/${platformMap[activeTag]}` : null)];
+
+                if (files.includes(null)) {
+                    console.warn(`No file found for tag: ${activeTag}`);
+                    setLoadingGames(false);
+                    return;
+                }
+
+                const fetchPromises = files.map(f => fetch(`${DATA_BASE_URL}/data/${f}`).then(r => r.ok ? r.json() : []));
+                const results = await Promise.all(fetchPromises);
+                let games = results.flat();
+
+                // 4. Post-Process (Filter if Deep Mapped)
+                if (isSubFilter && activeTag) {
+                    // Only show games strictly inside this "folder" (tag)
+                    games = games.filter(g =>
+                        g.path && Array.isArray(g.path) && g.path.some(p => p.includes(activeTag) || p === activeTag)
+                    );
+                }
+
+                // 5. Update Cache (This triggers UI update via filteredItems)
+                setGameCache(prev => ({ ...prev, [cacheKey]: games }));
+
+            } catch (err) {
+                console.error("Game load error:", err);
+            } finally {
+                setLoadingGames(false);
+            }
+        };
+
+        loadGames();
+
+    }, [activeProvider, activeTag, manifests, platformMap, gameCache]);
+
+    // Data for Deep Search / Path Search
+    const [deepSearchResults, setDeepSearchResults] = useState([]);
+    const [isSearchingDeep, setIsSearchingDeep] = useState(false);
+    const searchAbortController = useRef(null);
+
+    // Debounce Search Term
+    useEffect(() => {
+        const timer = setTimeout(() => setDebouncedTerm(searchTerm), 500);
+        return () => clearTimeout(timer);
+    }, [searchTerm]);
+
+    // --- Master Search Engine (Unifying Path & Deep Search) ---
+    useEffect(() => {
+        // Reset results immediately when search is cleared or modes change
+        if (!searchTerm) {
+            setDeepSearchResults([]);
+            setIsSearchingDeep(false);
+            return;
+        }
+
+        // Logic to run search
+        const timeoutId = setTimeout(async () => {
+            setIsSearchingDeep(true);
+            setDeepSearchResults([]); // Start fresh for this specific search run
+
+            // Cancel previous running search
+            if (searchAbortController.current) {
+                searchAbortController.current.abort();
+            }
+            searchAbortController.current = new AbortController();
+            const signal = searchAbortController.current.signal;
+
+            const normalize = (str) => str.toLowerCase().replace(/[^a-z0-9\s]/g, '');
+            const normalizedTerm = normalize(searchTerm);
+            const searchTokens = normalizedTerm.split(/\s+/).filter(Boolean);
+
+            // MODE 1: Path / Folder Search (Checks local index)
+            // Runs if Target is Folders or Both
+            if (searchTarget === 'folders' || searchTarget === 'both') {
+                let folderMatches = [];
+                // Use data.collections for the complete list of folders across all providers
+                Object.entries(data.collections).forEach(([provider, pData]) => {
+                    if (activeProvider !== 'all' && activeProvider !== provider) return;
+
+                    pData.platforms.forEach(platform => {
+                        if (normalize(platform.name).includes(normalizedTerm)) {
+                            folderMatches.push({
+                                id: `fold-${provider}-${platform.name}`,
+                                name: platform.name,
+                                provider: provider,
+                                type: 'folder',
+                                count: platform.count
+                            });
+                        }
+                    });
+                });
+
+                if (folderMatches.length > 0) {
+                    setDeepSearchResults(prev => [...prev, ...folderMatches]);
+                }
+
+                // SUB-MODE: Deep Folder Search (for IA and nested structures)
+                if (isDeepSearch) {
+                    let deepFolderMatches = [];
+                    // Check IA Platform Map
+                    if (platformMap) {
+                        Object.entries(platformMap).forEach(([subFolder, parentFile]) => {
+                            if (normalize(subFolder).includes(normalizedTerm)) {
+                                if (activeProvider !== 'all' && activeProvider !== 'Internet_Archive') return;
+                                deepFolderMatches.push({
+                                    id: `deep-fold-IA-${subFolder}`,
+                                    name: subFolder,
+                                    provider: 'Internet_Archive',
+                                    type: 'folder',
+                                    breadcrumb: `Internet Archive › ${parentFile.replace('.json', '')}`
+                                });
+                            }
                         });
+                    }
+                    if (deepFolderMatches.length > 0) {
+                        setDeepSearchResults(prev => [...prev, ...deepFolderMatches]);
+                    }
                 }
             }
-        }
-    }, [activeProvider, activeTag, manifests, gameCache]);
 
-    // Derived state for filtering
+            // MODE 2: Deep File Search (Fetches remote JSONs)
+            // Only runs if Deep Search is ON AND Target is Files or Both
+            if (isDeepSearch && (searchTarget === 'files' || searchTarget === 'both')) {
+                // SCAN ENGINE: Loop through all selected providers
+                const provsToScan = activeProvider === 'all' ? Object.keys(data.collections) : [activeProvider];
+
+                const processPlatformBatch = async (provider, batch, manifest) => {
+                    const results = [];
+                    const promises = batch.map(async (tag) => {
+                        const platformNode = manifest[tag];
+                        if (!platformNode) return;
+                        if (activeProvider !== 'all' && activeTag !== 'all' && tag !== activeTag) return;
+
+                        try {
+                            let games = [];
+                            const cacheKey = `${provider}-${tag}`;
+                            if (gameCache[cacheKey]) {
+                                games = gameCache[cacheKey];
+                            } else {
+                                const files = Array.isArray(platformNode.file) ? platformNode.file : [platformNode.file];
+                                const fetchPromises = files.map(f => fetch(`${DATA_BASE_URL}/data/${f}`, { signal }).then(r => r.ok ? r.json() : []));
+                                const results = await Promise.all(fetchPromises);
+                                games = results.flat();
+                                setGameCache(prev => ({ ...prev, [cacheKey]: games }));
+                            }
+
+                            const matches = games.filter(g => {
+                                const name = normalize(g.name);
+                                return searchTokens.every(token => name.includes(token));
+                            }).map((g, idx) => ({
+                                id: `game-${provider}-${tag}-${idx}`,
+                                name: g.name ? g.name.replace(/\.zip$|\.7z$/i, '') : 'Unknown',
+                                provider: provider,
+                                platform: tag,
+                                itemData: g,
+                                type: 'game'
+                            }));
+                            results.push(...matches);
+                        } catch (err) {
+                            if (err.name !== 'AbortError') console.warn(`Skipped ${tag}`, err);
+                        }
+                    });
+                    await Promise.all(promises);
+                    return results;
+                };
+
+                for (const provider of provsToScan) {
+                    if (signal.aborted) break;
+
+                    // Ensure manifest is loaded for this provider
+                    let currentManifest = manifests[provider];
+                    if (!currentManifest) {
+                        try {
+                            const mRes = await fetch(`${DATA_BASE_URL}/data/${provider}/_manifest.json`, { signal });
+                            if (mRes.ok) {
+                                currentManifest = await mRes.json();
+                                setManifests(prev => ({ ...prev, [provider]: currentManifest }));
+                            }
+                        } catch (e) { continue; }
+                    }
+                    if (!currentManifest) continue;
+
+                    const platformKeys = Object.keys(currentManifest);
+                    const BATCH_SIZE = 8;
+                    for (let i = 0; i < platformKeys.length; i += BATCH_SIZE) {
+                        if (signal.aborted) break;
+                        const batchResults = await processPlatformBatch(provider, platformKeys.slice(i, i + BATCH_SIZE), currentManifest);
+                        if (batchResults.length > 0) {
+                            setDeepSearchResults(prev => [...prev, ...batchResults]);
+                        }
+                    }
+                }
+            }
+
+            setIsSearchingDeep(false);
+        }, 500);
+
+        return () => clearTimeout(timeoutId);
+    }, [searchTerm, isDeepSearch, searchTarget, activeProvider, activeTag, data, platformMap]);
+
+
+    // Combined Filtered Items
     const filteredItems = useMemo(() => {
         if (!data) return [];
 
-        // Helper to normalize strings for lenient search
+        // CASE 1: Deep Search or Global Targeted Search Active
+        if (searchTerm && (isDeepSearch || searchTarget !== 'files')) {
+            return deepSearchResults.map(item => ({
+                ...item,
+                breadcrumb: item.breadcrumb || (item.type === 'game' ? `${item.provider} › ${item.platform}` : `${item.provider}`)
+            }));
+        }
+
+        // Helper to normalize strings
         const normalize = (str) => str.toLowerCase().replace(/[^a-z0-9\s]/g, '');
         const normalizedTerm = normalize(searchTerm);
         const searchTokens = normalizedTerm.split(/\s+/).filter(Boolean);
@@ -114,22 +339,22 @@ export default function Home() {
         let sourceItems = [];
         let itemType = 'platform';
 
-        // Determine Source Data (Platforms or Games)
+        // CASE 2: Single Platform View (Browsing Games)
         if (activeProvider !== 'all' && activeTag !== 'all') {
-            // Level 3: Games View
             const cacheKey = `${activeProvider}-${activeTag}`;
             if (gameCache[cacheKey]) {
                 sourceItems = gameCache[cacheKey].map((g, idx) => ({
                     id: `${cacheKey}-${idx}`,
                     name: g.name ? g.name.replace(/\.zip$|\.7z$/i, '') : 'Unknown', // Remove extension for display
-                    provider: activeProvider, // Keep context
+                    provider: activeProvider,
                     itemData: g, // Store full data (url, size, etc)
                     type: 'game'
                 }));
                 itemType = 'game';
             }
-        } else {
-            // Level 1 & 2: Platform View
+        }
+        // CASE 3: Provider View (Browsing Platforms)
+        else {
             Object.entries(data.collections).forEach(([providerKey, providerData]) => {
                 if (activeProvider !== 'all' && activeProvider !== providerKey) return;
 
@@ -149,39 +374,33 @@ export default function Home() {
 
         if (!searchTerm) return sourceItems;
 
+        // Shallow Search (Current View Only)
         return sourceItems.filter(item => {
-            // For games, search name. For platforms, search name + provider.
-            const textToSearch = itemType === 'game'
+            // Respect the search target even in shallow mode
+            if (searchTarget === 'files' && item.type !== 'game') return false;
+            if (searchTarget === 'folders' && item.type !== 'platform') return false;
+
+            const textToSearch = item.type === 'game'
                 ? normalize(item.name)
                 : normalize(item.name + ' ' + item.provider);
-
-            // Shalloway or Deep Search Toggle Logic could go here?
-            // "Shallow Search ON" is handled by the UI restricting us to the current level (already done by render logic above).
-            // "Deep Search" logic usually implies searching recursively.
-            // For now, infinite scroll "Deep Search" might just mean "Search works on current list" or "Search inside files" (not implemented yet).
-
-            // LENIENT SEARCH: All tokens must be found in the item text
             return searchTokens.every(token => textToSearch.includes(token));
         }).sort((a, b) => {
             // Basic Relevance Sorting
             const A = normalize(a.name);
             const B = normalize(b.name);
-            const term = normalizedTerm;
 
             // Exact match gets priority
-            if (A === term) return -1;
-            if (B === term) return 1;
+            if (A === normalizedTerm) return -1;
+            if (B === normalizedTerm) return 1;
 
             // Starts with priority
-            const aStarts = A.startsWith(term);
-            const bStarts = B.startsWith(term);
-            if (aStarts && !bStarts) return -1;
-            if (bStarts && !aStarts) return 1;
+            if (A.startsWith(normalizedTerm) && !B.startsWith(normalizedTerm)) return -1;
+            if (B.startsWith(normalizedTerm) && !A.startsWith(normalizedTerm)) return 1;
 
             return 0;
         });
 
-    }, [data, searchTerm, activeProvider, activeTag, gameCache, isDeepSearch]);
+    }, [data, searchTerm, activeProvider, activeTag, gameCache, isDeepSearch, deepSearchResults, searchTarget]);
 
     // Unique providers and tags for filters (re-use logic but safe-guard)
     const { providers, tags } = useMemo(() => {
@@ -223,7 +442,7 @@ export default function Home() {
     useEffect(() => {
         // Reset pagination when search or filters change
         setVisibleCount(40);
-    }, [searchTerm, activeProvider, activeTag, isGlobalSearch, isDeepSearch]);
+    }, [searchTerm, activeProvider, activeTag, isGlobalSearch, isDeepSearch, searchTarget]);
 
     useEffect(() => {
         const observer = new IntersectionObserver(
@@ -268,15 +487,15 @@ export default function Home() {
 
                         <div className="flex flex-col gap-4">
                             {/* Search Input Area */}
-                            <div className="flex items-center gap-4 relative">
-                                <Search className={`w-6 h-6 ${searchTerm ? 'text-accent' : 'text-text-muted'} transition-colors`} />
+                            <div className="flex items-center gap-4 relative bg-white/5 border border-white/10 rounded-2xl p-2 px-4 hover:border-white/20 transition-all shadow-inner">
+                                <Search className={`w-5 h-5 ${searchTerm ? 'text-accent' : 'text-text-muted'} transition-colors`} />
                                 <input
                                     ref={searchInputRef}
                                     type="text"
-                                    placeholder="Type to search..."
+                                    placeholder={searchTarget === 'folders' ? "Search for Folders (e.g. N64)..." : "Type to search games..."}
                                     value={searchTerm}
                                     onChange={(e) => setSearchTerm(e.target.value)}
-                                    className="bg-transparent border-none outline-none text-2xl font-medium w-full placeholder:text-text-muted/50 text-white h-12"
+                                    className="bg-transparent border-none outline-none text-xl font-medium w-full placeholder:text-text-muted/40 text-white h-10"
                                 />
 
                                 {searchTerm && (
@@ -285,7 +504,7 @@ export default function Home() {
                                     </button>
                                 )}
 
-                                <div className="hidden md:flex items-center gap-2 text-xs text-text-muted border border-white/10 px-2 py-1 rounded">
+                                <div className="hidden md:flex items-center gap-2 text-xs text-text-muted border border-white/10 px-2 py-1 rounded bg-black/20">
                                     <Command className="w-3 h-3" />
                                     <span>ANY KEY</span>
                                 </div>
@@ -293,45 +512,54 @@ export default function Home() {
 
                             {/* Dynamic Filters */}
                             <div className={`flex flex-col gap-2 transition-all duration-300 ${searchTerm || activeProvider !== 'all' ? 'opacity-100 max-h-40' : 'opacity-100 max-h-40'}`}>
-                                {/* Providers Row */}
-                                <div className="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-hide">
-                                    <span className="text-xs font-bold text-text-muted uppercase tracking-wider mr-2">Providers</span>
+                                {/* Provider Navigation (Restored Style) */}
+                                <div className="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-hide border-b border-white/5 mb-4">
                                     <button
-                                        onClick={() => setActiveProvider('all')}
-                                        className={`px-3 py-1 rounded-full text-xs font-medium transition-all whitespace-nowrap border ${activeProvider === 'all' ? 'bg-accent text-white border-accent' : 'bg-white/5 text-text-muted border-white/5 hover:bg-white/10'}`}
+                                        onClick={() => {
+                                            setActiveProvider('all');
+                                            setActiveTag('all');
+                                        }}
+                                        className={`px-3 py-1 rounded-full text-xs font-bold transition-all border flex items-center gap-2 ${activeProvider === 'all' ? 'bg-accent text-white border-accent' : 'bg-white/5 text-text-muted border-white/5 hover:bg-white/10'}`}
                                     >
-                                        All
+                                        <Globe className="w-3 h-3" />
+                                        GLOBAL
                                     </button>
+
                                     {providers.map(p => (
                                         <button
                                             key={p}
-                                            onClick={() => setActiveProvider(p)}
-                                            className={`px-3 py-1 rounded-full text-xs font-medium transition-all whitespace-nowrap border ${activeProvider === p ? 'bg-accent text-white border-accent' : 'bg-white/5 text-text-muted border-white/5 hover:bg-white/10'}`}
+                                            onClick={() => {
+                                                setActiveProvider(p);
+                                                setActiveTag('all');
+                                            }}
+                                            className={`px-3 py-1 rounded-full text-xs font-medium transition-all border whitespace-nowrap ${activeProvider === p ? 'bg-white text-black border-white' : 'bg-white/5 text-text-muted border-white/5 hover:bg-white/10'}`}
                                         >
-                                            {p}
+                                            {p.replace('_', ' ')}
                                         </button>
                                     ))}
                                 </div>
 
-                                {/* Tags Row */}
-                                <div className="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-hide">
-                                    <span className="text-xs font-bold text-text-muted uppercase tracking-wider mr-2">Platforms</span>
-                                    <button
-                                        onClick={() => setActiveTag('all')}
-                                        className={`px-3 py-1 rounded-full text-xs font-medium transition-all whitespace-nowrap border ${activeTag === 'all' ? 'bg-blue-600 text-white border-blue-600' : 'bg-white/5 text-text-muted border-white/5 hover:bg-white/10'}`}
-                                    >
-                                        All
-                                    </button>
-                                    {tags.slice(0, 100).map(t => (
+                                {/* Tags Row - HIDDEN FOR REVAMP */}
+                                {false && tags.length > 0 && (
+                                    <div className="flex items-center gap-2 overflow-x-auto pb-2 scrollbar-hide">
+                                        <span className="text-xs font-bold text-text-muted uppercase tracking-wider mr-2">Sub-Folders</span>
                                         <button
-                                            key={t}
-                                            onClick={() => setActiveTag(t)}
-                                            className={`px-3 py-1 rounded-full text-xs font-medium transition-all whitespace-nowrap border ${activeTag === t ? 'bg-blue-600 text-white border-blue-600' : 'bg-white/5 text-text-muted border-white/5 hover:bg-white/10'}`}
+                                            onClick={() => setActiveTag('all')}
+                                            className={`px-3 py-1 rounded-full text-xs font-medium transition-all whitespace-nowrap border ${activeTag === 'all' ? 'bg-blue-600 text-white border-blue-600' : 'bg-white/5 text-text-muted border-white/5 hover:bg-white/10'}`}
                                         >
-                                            {t}
+                                            All
                                         </button>
-                                    ))}
-                                </div>
+                                        {tags.slice(0, 100).map(t => (
+                                            <button
+                                                key={t}
+                                                onClick={() => setActiveTag(t)}
+                                                className={`px-3 py-1 rounded-full text-xs font-medium transition-all whitespace-nowrap border ${activeTag === t ? 'bg-blue-600 text-white border-blue-600' : 'bg-white/5 text-text-muted border-white/5 hover:bg-white/10'}`}
+                                            >
+                                                {t}
+                                            </button>
+                                        ))}
+                                    </div>
+                                )}
                             </div>
                         </div>
 
@@ -391,39 +619,56 @@ export default function Home() {
                     </h2>
 
                     {/* ... (Search Toggles kept from previous step) ... */}
+                    {/* Search Toggles */}
                     <div className="flex items-center gap-3">
-                        {/* Shallow/Deep Search Toggle */}
+                        {/* Deep Search Toggle */}
                         <div className="relative group">
                             <button
                                 onClick={() => setIsDeepSearch(!isDeepSearch)}
-                                className={`flex items-center gap-2 px-4 py-2 rounded-lg text-sm transition-all border ${isDeepSearch ? 'bg-purple-500/20 border-purple-500 text-purple-400' : 'bg-white/5 border-white/5 text-text-muted hover:bg-white/10'}`}
+                                className={`flex items-center gap-2 px-4 py-2 rounded-lg text-sm transition-all border ${isDeepSearch ? 'bg-purple-500/20 border-purple-500 text-purple-400 font-bold' : 'bg-white/5 border-white/5 text-text-muted hover:bg-white/10'}`}
                             >
                                 <Filter className="w-4 h-4" />
-                                {isDeepSearch ? 'Deep Search' : 'Shallow Search'}
+                                {isDeepSearch ? 'Deep Search ON' : 'Deep Search OFF'}
                             </button>
-                            {/* Tooltip */}
                             <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-1 bg-black/90 text-white text-xs rounded opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none whitespace-nowrap z-50">
-                                {isDeepSearch ? 'Searching subfolders & files' : 'Searching top-level only'}
+                                {isDeepSearch ? 'Scope: Scanning all files in archive' : 'Scope: Searching current list only'}
                             </div>
                         </div>
 
-                        {/* Toggle Global Search */}
-                        <button
-                            onClick={toggleGlobalSearch}
-                            className={`flex items-center gap-2 px-4 py-2 rounded-lg text-sm transition-all border ${isGlobalSearch ? 'bg-accent/20 border-accent text-accent' : 'bg-white/5 border-white/5 text-text-muted hover:bg-white/10'}`}
-                        >
-                            <Globe className="w-4 h-4" />
-                            Global {isGlobalSearch ? 'ON' : 'OFF'}
-                        </button>
+                        {/* Search Target Toggle (Triple Mode) */}
+                        <div className="flex items-center bg-white/5 rounded-lg border border-white/10 p-1">
+                            {['files', 'folders', 'both'].map((mode) => (
+                                <button
+                                    key={mode}
+                                    onClick={() => setSearchTarget(mode)}
+                                    className={`px-3 py-1.5 rounded-md text-xs font-bold transition-all uppercase tracking-wider ${searchTarget === mode
+                                        ? (mode === 'both' ? 'bg-accent text-white shadow-lg' : 'bg-blue-600 text-white shadow-lg')
+                                        : 'text-text-muted hover:text-white'}`}
+                                >
+                                    {mode}
+                                </button>
+                            ))}
+                        </div>
                     </div>
                 </div>
+
+                {/* Deep Search Progress Indicator */}
+                {isSearchingDeep && (
+                    <div className="flex items-center justify-center gap-3 mb-6 p-4 bg-accent/10 border border-accent/20 rounded-xl text-accent animate-pulse shadow-xl backdrop-blur-md">
+                        <div className="w-5 h-5 border-2 border-accent border-t-transparent rounded-full animate-spin"></div>
+                        <div className="flex flex-col">
+                            <span className="font-bold text-sm">Deep Scan in Progress...</span>
+                            <span className="text-xs opacity-70">Searching through thousands of {searchTarget} across the archive. Found {filteredItems.length} so far.</span>
+                        </div>
+                    </div>
+                )}
 
                 {loadingGames ? (
                     <div className="flex flex-col items-center justify-center py-20">
                         <div className="w-12 h-12 border-4 border-accent border-t-transparent rounded-full animate-spin mb-4"></div>
                         <p className="text-text-muted animate-pulse">Loading games...</p>
                     </div>
-                ) : filteredItems.length === 0 ? (
+                ) : filteredItems.length === 0 && !isSearchingDeep ? (
                     <div className="flex flex-col items-center justify-center py-20 text-text-muted">
                         <Disc className="w-16 h-16 opacity-20 mb-4" />
                         <p>No items found matching your criteria.</p>
@@ -435,44 +680,53 @@ export default function Home() {
                                 <div
                                     key={item.id}
                                     onClick={() => {
-                                        if (item.type === 'platform') {
+                                        if (item.type === 'platform' || item.type === 'folder') {
                                             setActiveProvider(item.provider);
                                             setActiveTag(item.name);
-                                            setSearchTerm(''); // Clear search on drill down? User choice. Let's clear to show content.
+                                            setSearchTerm('');
+                                            setSearchTarget('files'); // Reset to files on entry
+                                            window.scrollTo({ top: 0, behavior: 'smooth' });
                                         } else {
-                                            // Handle Game Click (e.g., Download or Details)
-                                            window.open(item.itemData.url, '_blank');
+                                            // Handle Game Click - Use Proxy for Direct Download
+                                            window.location.href = `/api/download?url=${encodeURIComponent(item.itemData.url)}`;
                                         }
                                     }}
-                                    className="group relative bg-bg-card border border-white/5 hover:border-accent/50 rounded-xl p-4 transition-all hover:translate-y-[-2px] hover:shadow-lg hover:shadow-accent/10 cursor-pointer overflow-hidden"
+                                    className="group relative bg-bg-card border border-white/5 hover:border-accent/50 rounded-xl p-4 transition-all hover:translate-y-[-2px] hover:shadow-lg hover:shadow-accent/10 cursor-pointer overflow-hidden animate-in fade-in zoom-in duration-500"
                                 >
                                     <div className="absolute top-0 right-0 p-3 opacity-0 group-hover:opacity-100 transition-opacity">
                                         <div className="bg-accent rounded-full p-1.5">
-                                            {item.type === 'platform' ? <Folder className="w-3 h-3 text-white" /> : <File className="w-3 h-3 text-white" />}
+                                            {(item.type === 'platform' || item.type === 'folder') ? <Folder className="w-3 h-3 text-white" /> : <File className="w-3 h-3 text-white" />}
                                         </div>
                                     </div>
 
                                     <div className="flex flex-col h-full">
                                         <div className="mb-3">
-                                            <span className={`text-xs font-mono px-2 py-0.5 rounded ${item.type === 'platform' ? 'text-accent bg-accent/10' : 'text-green-400 bg-green-500/10'}`}>
-                                                {item.type === 'platform' ? 'COLLECTION' : 'FILE'}
+                                            <span className={`text-xs font-mono px-2 py-0.5 rounded ${(item.type === 'platform' || item.type === 'folder') ? 'text-accent bg-accent/10' : 'text-green-400 bg-green-500/10'}`}>
+                                                {(item.type === 'platform' || item.type === 'folder') ? 'COLLECTION' : 'FILE'}
                                             </span>
                                         </div>
                                         <h3 className="text-lg font-semibold text-text-primary mb-1 line-clamp-2 leading-tight group-hover:text-accent transition-colors">
                                             {item.name}
                                         </h3>
-                                        <div className="mt-auto pt-4 flex items-center justify-between text-xs text-text-muted">
-                                            {item.type === 'platform' ? (
-                                                <span className="flex items-center gap-1">
-                                                    <Folder className="w-3 h-3" />
-                                                    {item.count ? item.count.toLocaleString() : '?'} Items
-                                                </span>
-                                            ) : (
-                                                <span className="flex items-center gap-1">
-                                                    <Disc className="w-3 h-3" />
-                                                    {item.itemData.size}
-                                                </span>
+                                        <div className="mt-auto pt-4 flex flex-col gap-2">
+                                            {item.breadcrumb && (
+                                                <div className="text-[10px] font-medium text-text-muted/60 uppercase tracking-tighter truncate">
+                                                    {item.breadcrumb}
+                                                </div>
                                             )}
+                                            <div className="flex items-center justify-between text-xs text-text-muted">
+                                                {(item.type === 'platform' || item.type === 'folder') ? (
+                                                    <span className="flex items-center gap-1">
+                                                        <Folder className="w-3 h-3" />
+                                                        {item.count ? item.count.toLocaleString() : '?'} Items
+                                                    </span>
+                                                ) : (
+                                                    <span className="flex items-center gap-1">
+                                                        <Disc className="w-3 h-3" />
+                                                        {item.itemData.size}
+                                                    </span>
+                                                )}
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
